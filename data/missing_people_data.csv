@@ -1,0 +1,1340 @@
+first_name,last_name,sex,age,race,city,county,state,date_missing
+Salvador,Quintanilla,Male,30.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1981-06-06 00:00:00
+Jon,Ramage,Male,45.0,White,Canyon Country,Los Angeles,California,1983-02-19 14:00:00
+Charles,Campbell,Male,20.0,Black/African American,Vacaville,Solano,California,1991-08-30 00:00:00
+Kenneth,Beltram,Male,25.0,White,Brentwood,Contra Costa,California,1977-07-29 00:00:00
+Misty,Cross,Female,29.0,White,Sacramento County,Sacramento County,California,2000-08-19 00:00:00
+Kimberly,Lorrigan,Male,15.0,Other,Chula Vista,San Diego,California,2011-04-11 00:00:00
+Francisco,Sanchez,Male,38.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1992-04-30 00:00:00
+Terry,Collier,Female,30.0,White,Unknown,San Bernardino,California,2004-06-17 20:36:00
+Ellen,Armijo,Female,48.0,White,El Dorado County,El Dorado,California,2005-08-10 14:46:00
+Patricia,Calatrello,Female,44.0,White,Rancho Palos Verde,Los Angeles,California,1979-02-12 02:00:00
+Carmen,Pearcy,Female,48.0,White,Tehema,Tehama,California,2004-06-18 00:00:00
+Eric,Cansler,Male,41.0,White,Mill Valley,Marin,California,2005-08-09 17:45:00
+Phillip,Ferris,Male,38.0,White,Mill Valley,Marin,California,2006-08-20 20:01:00
+April,Cooper,Female,34.0,White,Temecula,Riverside,California,1986-12-13 00:00:00
+Isabella,Saileanu,Female,15.0,White,Morgan Hill,Santa Clara,California,2001-09-18 00:00:00
+Lydia,White,Female,9.0,Black/African American,Lawndale,Los Angeles,California,2004-08-01 00:00:00
+Conrado,Rueda,Male,25.0,White Hispanic/Latino,Santa Maria,Santa Barbara,California,2001-10-11 10:36:00
+Tierra,Gehl-kater,Female,13.0,White,Fortuna,Humboldt,California,2005-08-12 00:00:00
+Steven,Geisler,Male,51.0,White,Phelan,San Bernardino,California,2013-05-10 16:30:00
+Tera,Smith,Female,32.0,White,Redding,Shasta,California,1998-08-22 00:00:00
+George,Lane,Male,63.0,White,San Diego,San Diego,California,1997-10-14 15:30:00
+Stephen,La Spino,Male,31.0,White,Los Angeles,Los Angeles,California,1988-08-04 00:00:00
+Leticia,Ramos,Female,28.0,White Hispanic/Latino,Winters,Yolo,California,2009-04-12 00:00:00
+Henry,Moreno,Male,46.0,White Hispanic/Latino,Sacramento,Sacramento,California,1998-08-06 11:45:00
+Vito,Russo,Male,35.0,White,Los Angeles,Los Angeles,California,1988-08-04 00:00:00
+Jaunice,Kouroumalis,Female,33.0,White,Santa Ana,Orange,California,1990-01-01 20:12:00
+Debra,Kidwell,Female,26.0,White,Ventura,Ventura,California,1979-05-04 00:00:00
+Donald,Gregory,Male,24.0,White,Banning,Riverside,California,1983-02-01 00:00:00
+Amir,Abdou,Male,12.0,White,San Ramon,Contra Costa,California,2003-04-30 00:00:00
+Shai,Gitlis,Male,22.0,White,West Hills,Los Angeles,California,1994-03-08 00:00:00
+Dale,Kelley,Male,21.0,White,Carmichael,Sacramento,California,1981-05-20 08:00:00
+Margarita,Macneill,Female,27.0,Non-White Hispanic/Latino,Salinas,Monterey,California,1976-02-07 00:00:00
+Barbara,Tolbert,Female,22.0,White,Anaheim,Orange,California,1973-06-01 12:00:00
+Teresa,Barbusca,Female,31.0,White,Sacramento,Sacramento,California,1999-05-25 00:00:00
+Maria,Cantua,Female,30.0,White Hispanic/Latino,Calexico,Imperial,California,1999-01-01 12:03:00
+Shani,Estes,Female,36.0,White,Bakersfield,Kern,California,2005-11-24 00:00:00
+Tania,Ochoa,Female,15.0,Non-White Hispanic/Latino,Grover Beach,San Luis Obispo,California,2010-07-12 00:00:00
+Carman,Burhans,Female,40.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1982-03-15 18:07:00
+Derran,Rogers,Male,14.0,White,Modesto,Stanislaus,California,1973-02-27 19:29:00
+Roger,Madison,Male,15.0,White,Sylmar,Los Angeles,California,1968-12-16 14:08:00
+Doris,Inzunza,Female,41.0,White Hispanic/Latino,Rancho Cordova,Sacramento,California,1997-08-26 00:39:00
+Jeremias,Gomez,Male,16.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2010-05-27 00:00:00
+Mary,Amos,Female,36.0,White,Montclair,San Bernardino,California,1968-12-31 00:00:00
+Virdell,|Green, Jr.|,Male,46.0,Black/African American,San Jose,Santa Clara,California,2010-04-30 17:13:00
+Tara,Cossey,Female,47.0,Native American,San Pablo,Contra Costa,California,1979-06-06 00:00:00
+Eric,Grant,Male,33.0,White,Navarro,Mendocino,California,2010-10-27 00:00:00
+Jamal,Essayah,Male,23.0,White,Fairfax,Marin,California,2012-07-22 20:07:00
+Adolfo,Del Rio,Male,66.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,2007-11-15 00:00:00
+Rosey,Larranaga,Female,15.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-10-19 00:00:00
+Beverly,Harrington,Female,50.0,White,Los Angeles,Los Angeles,California,2003-01-13 00:00:00
+Paul,Yotter,Male,22.0,White,Santa Maria,Santa Barbara,California,1991-12-20 08:00:00
+Raymond,Jones,Male,60.0,Black/African American,Long Beach,Los Angeles,California,2005-01-01 00:59:00
+Jose,Fragosa,Male,46.0,White Hispanic/Latino,Stockton,San Joaquin,California,2000-03-03 11:00:00
+John,Troyer,Male,36.0,White,San Bernardino,San Bernardino,California,1999-12-16 00:00:00
+Ivan,Barela,Male,42.0,Non-White Hispanic/Latino,San Francisco,San Francisco,California,1986-11-02 00:00:00
+Melissa,Espinoza,Female,32.0,Non-White Hispanic/Latino,Rancho Cordova,Sacramento,California,1993-12-02 00:00:00
+Angela,Davis,Female,23.0,Black/African American,San Francisco,San Francisco,California,1992-06-30 00:00:00
+Josue,Hernandez-agudelo,Male,8.0,Non-White Hispanic/Latino,Vallejo,Solano,California,2011-07-10 00:00:00
+Jasmine,Barre,Female,30.0,Black/African American,San Francisco,San Francisco,California,2008-05-01 00:00:00
+Richard,Lamson,Male,18.0,White,San Mateo,San Mateo,California,1970-02-22 12:00:00
+James,|Rhodes, Iii|,Male,22.0,White,Needles,San Bernardino,California,2010-06-21 11:03:00
+Vincent,Beer,Male,4.0,White,San Diego,San Diego,California,1999-01-01 00:00:00
+Sally,Simmons,Female,15.0,White,San Francisco,San Francisco,California,1989-09-04 00:00:00
+Michael,Pederson,Male,34.0,White,Livermore,Alameda,California,1986-04-26 00:00:00
+Ophelia,Ortiz,Female,46.0,Non-White Hispanic/Latino,Bakersfield,Kern,California,1998-09-13 00:00:00
+Rachel,Ziselman,Female,48.0,White,Pacific Palisades,Los Angeles,California,1977-09-05 00:00:00
+Roger,Schwerman,Male,19.0,White,Los Angeles,Los Angeles,California,1993-12-06 00:00:00
+Deangelia,Mccamey,Female,16.0,Black/African American,Union City,Alameda,California,2010-10-27 00:00:00
+Donald,Loar,Male,53.0,White,Bellflower,Los Angeles,California,1998-02-19 16:00:00
+Jorge,Zavala,Male,35.0,White Hispanic/Latino,Hawthorne,Los Angeles,California,2008-12-11 06:30:00
+Janice,Chai Hsi Lo,Female,39.0,Asian or Pacific Islander,San Gabriel,Los Angeles,California,1996-11-12 00:00:00
+Rene,Yanez,Male,21.0,White Hispanic/Latino,San Gabriel,Los Angeles,California,1993-02-10 21:30:00
+Samantha,Gonzales,Female,23.0,White,|Alameda,county|,Alameda,California,2012-04-27 00:00:00
+John,Rescorl,Male,53.0,White,Morongo Valley,San Bernardino,California,2002-08-16 16:32:00
+Emanuel,Ocampo,Male,17.0,Non-White Hispanic/Latino,Fullerton,Orange,California,2009-05-24 00:00:00
+Alonso,Escobedo,Male,23.0,White Hispanic/Latino,Simi Valley,Ventura,California,2013-04-21 08:00:00
+Carlos,Pacheco,Female,10.0,Non-White Hispanic/Latino,Watsonville,Santa Cruz,California,2005-05-02 00:00:00
+Lourdes,Dubyak,Female,28.0,White Hispanic/Latino,Chino,San Bernardino,California,1985-08-11 00:00:00
+Pamela,Dyson (aka Marsh),Female,44.0,White,El Cajon,San Diego,California,2003-04-21 00:00:00
+Melissa,Braden,Female,9.0,Other,Los Angeles,Los Angeles,California,2006-03-16 00:00:00
+Atinui,Kevorkian,Female,19.0,Other,Pasadena,Los Angeles,California,2000-12-21 00:00:00
+David,Knowles,Male,43.0,White,Dunsmere,Siskiyou,California,2006-08-17 00:00:00
+Tobias,Kaiser,Male,48.0,White,Somerset,El Dorado,California,2006-11-30 16:00:00
+David,Neily,Male,69.0,White,Albion,Mendocino,California,2006-04-14 00:00:00
+Edward,Copeland,Male,21.0,White,Anaheim,Orange,California,1988-06-01 00:00:00
+Odean,Jones,Male,44.0,Black/African American,Los Angeles,Los Angeles,California,2000-11-01 00:00:00
+Spencer,Karas,Male,22.0,White,Palm Springs,Riverside,California,2008-07-01 00:00:00
+Corazone,Gialon,Female,34.0,Asian or Pacific Islander,Rancho Sante Fe,San Diego,California,1994-10-08 00:00:00
+Michael,Johnson,Male,34.0,Black/African American,Los Angeles,Los Angeles,California,2004-12-02 00:00:00
+Gary,Sizemore,Male,38.0,White,Hawthorne,Los Angeles,California,1979-01-01 00:00:00
+Jose,Espinoza,Male,22.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1977-04-13 00:00:00
+Jackson,Blakley,Male,49.0,White,Willits,Mendocino,California,2013-11-30 00:00:00
+Jacob,Yepez,Male,16.0,Non-White Hispanic/Latino,Lindsay,Tulare,California,2013-12-09 00:00:00
+Alexander,Yepez,Male,12.0,Non-White Hispanic/Latino,Paramount,Los Angeles,California,2012-06-12 00:00:00
+Patricia,Schneider,Female,25.0,White,Pedley,Riverside,California,1982-07-31 03:45:00
+Kristi,Krebs,Female,22.0,White,Fort Bragg,Mendocino,California,1993-08-09 00:00:00
+Kathryn,Lamadrid,Female,40.0,White,Fort Bragg,Mendocino,California,2004-12-17 13:30:00
+Matthew,Gale,Male,68.0,White,Half Mood Bay,San Mateo,California,2008-03-15 00:00:00
+Brad,Gilmartin,Male,51.0,White,San Bernardino,San Bernardino,California,2006-05-01 12:54:00
+Donella,Coultas,Female,29.0,White,South Pasadena,Los Angeles,California,1979-12-18 00:00:00
+Daniel,Hoffer,Male,19.0,White,Los Angeles,Los Angeles,California,1975-05-28 09:10:00
+Essie,Hiett,Female,47.0,White,Oroville,Butte,California,1978-02-13 02:00:00
+Robert,Davis,Male,93.0,White,Corte Madera,Marin,California,2014-02-26 20:15:00
+Cynthia,Sumpter,Female,45.0,White,San Jose,Santa Clara,California,1974-04-27 00:00:00
+Aretha,Chism,Female,35.0,Black/African American,Victorville,San Bernardino,California,1999-01-01 11:40:00
+Verna,Smith,Female,50.0,White,Marina,Monterey,California,1968-02-01 00:00:00
+Isidoro,Santos-cabrera,Male,30.0,White Hispanic/Latino,Costa Mesa,Orange,California,2009-10-27 00:00:00
+Steve,Connelly,Male,62.0,White,Costa Mesa,Orange,California,2008-04-16 00:00:00
+Ashwin,Jayaprakash,Male,16.0,Asian or Pacific Islander,Milpitas,Santa Clara,California,2005-06-10 00:00:00
+Sebastian,Martinez,Male,5.0,Non-White Hispanic/Latino,Sacramento,,California,2011-04-04 00:00:00
+Daphne,Webb,Female,2.0,Black/African American,Oakland,Alameda,California,2013-07-10 00:00:00
+Judy,Worrell,Female,24.0,White,North Highlands,Sacramento,California,1981-10-05 12:33:00
+Florencio,Mendoza,Male,91.0,Non-White Hispanic/Latino,Blythe,Riverside,California,1998-05-10 00:00:00
+Victor,Mendez,Male,30.0,Non-White Hispanic/Latino,East Los Angeles,Los Angeles,California,1997-01-27 00:00:00
+Maria,Medina,Female,19.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1989-03-03 13:00:00
+Peter,Mccoll,Male,34.0,White,Berkeley,Alameda,California,1995-08-28 00:00:00
+Bill,Paulson,Male,27.0,White,Fontana,Los Angeles,California,1985-03-31 00:17:00
+Lineyth,Garcia,Female,17.0,Non-White Hispanic/Latino,Escondido,,California,2014-02-07 00:00:00
+Eloy,Garcia,Male,27.0,White Hispanic/Latino,San Jose,Santa Clara,California,1978-02-04 00:00:00
+Allan,Kincaid,Male,57.0,White,Cambria,San Luis Obispo,California,2009-12-25 00:00:00
+Walter,Sajchetizol,Male,16.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2011-10-21 00:00:00
+Teresa,Martinez,Female,17.0,Non-White Hispanic/Latino,Anaheim,Orange,California,2011-01-07 00:00:00
+Mariah,Moreno,Female,15.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-10-18 00:00:00
+Dennis,Scott,Male,47.0,Unknown,Needles,San Bernardino,California,1998-07-27 15:00:00
+Hans,Okelsrud,Male,31.0,White,San Dimas,Los Angeles,California,2000-10-18 04:00:00
+Daniel,Spangle,Male,26.0,White,Lancaster,Los Angeles,California,1989-03-02 00:00:00
+Jacquelyn,Hopper,Female,23.0,White,Livingston,Merced,California,2003-10-31 00:00:00
+Benjamin,Currin,Male,53.0,White,San Diego,San Diego,California,2006-08-01 00:00:00
+Walter,Kuchanny,Male,35.0,White,Loma Verde,Marin,California,1984-03-19 00:00:00
+William,Bunch,Male,17.0,Black/African American,Pasadena,Los Angeles,California,1990-10-07 16:25:00
+Manuel,Vasquez,Male,42.0,Non-White Hispanic/Latino,Oxnard,Ventura,California,2000-03-22 14:00:00
+Margarita,Rodriguez,Female,16.0,Non-White Hispanic/Latino,Visalia,Tulare,California,2014-03-27 00:00:00
+Nelson,Fuentes,Male,26.0,White Hispanic/Latino,Vista,San Diego,California,1997-08-23 00:00:00
+Corin,Brackelsberg,Male,23.0,White,Pomona,Los Angeles,California,1999-06-01 00:00:00
+Gregory,Waskel,Male,31.0,White,Santa Cruz,Santa Cruz,California,1985-03-12 00:00:00
+Andrew,Willis,Male,42.0,Black/African American,Santa Cruz,Santa Cruz,California,1997-05-29 00:00:00
+Donavan,Doyle,Male,21.0,White,Sky Forest,San Bernardino,California,2013-10-09 00:00:00
+Robert,Willis Iv,Male,37.0,White,Dinkey Creek,Fresno,California,2008-10-31 08:54:00
+Darlena,Luna,Female,18.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-11-02 00:00:00
+Wayne,Rogers,Male,40.0,White,Laytonville,Mendocino,California,1992-08-13 00:00:00
+Teresa,Hammon,Female,18.0,White,Sacramento,Sacramento,California,1981-05-08 13:00:00
+Charles,Allen,Male,24.0,White,Arcata,Humboldt,California,1985-10-21 00:00:00
+John,Pena,Male,13.0,Non-White Hispanic/Latino,Chino,San Bernardino,California,1993-02-16 21:30:00
+Jeffery,Phillips,Male,15.0,White,Chino,San Bernardino,California,1993-02-16 21:30:00
+Keyon,Henry,Male,36.0,Black/African American,Montebello,Los Angeles,California,2012-12-26 00:06:00
+Rosendo Alba,Mena,Male,26.0,White Hispanic/Latino,Fontana,San Bernardino,California,1996-08-11 00:00:00
+Rachel,Rhodes,Female,20.0,White,Sonoma,Sonoma,California,1998-02-01 02:01:00
+Ilene,Misheloff,Female,13.0,White,Dublin,Alameda,California,1989-01-30 00:00:00
+Nayley,Gutierrez,Female,15.0,Non-White Hispanic/Latino,Exeter,Tulare,California,2012-09-06 00:00:00
+Marlane,Koue Castaneda,Female,50.0,White,Carlsbad,San Diego,California,2012-10-01 00:00:00
+Charles,Hollingsworth,Male,38.0,White,South Lake Tahoe,El Dorado,California,1970-10-26 10:55:00
+Adam,Kellner,Male,36.0,White,Stevenson Ranch,Los Angeles,California,2007-11-08 08:00:00
+Sammy,Jackson,Male,13.0,White,Monterey,Monterey,California,1968-12-14 11:33:00
+Sergio,Noriega,Male,18.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1990-07-27 00:00:00
+Teresa,Barreras,Female,27.0,White,Downey,Los Angeles,California,1987-05-17 00:00:00
+Dennis,Harrington,Male,23.0,White,Monte Rio,Sonoma,California,1995-07-28 00:00:00
+Carla,Reyes,Female,54.0,White,Yucca Valley,San Bernardino,California,2013-02-03 07:30:00
+Gavin,Smith,Male,57.0,White,West Hills,Los Angeles,California,2012-05-02 01:00:00
+Erna,Martin,Female,43.0,White,Granite Bay,Placer,California,1988-02-15 15:14:00
+Mary,Lozano,Female,49.0,Non-White Hispanic/Latino,Venice,Los Angeles,California,1969-02-13 00:00:00
+Georg,Weber,Male,10.0,White,Death Valley,Inyo,California,1996-07-22 00:00:00
+Cornelia,Meyer,Female,28.0,White,Death Valley,Inyo,California,1996-07-26 00:00:00
+Tina,Layton,Female,19.0,White,Fair Oaks,Sacramento,California,1990-06-07 15:00:00
+Jesus,Piña Vega,Male,37.0,Non-White Hispanic/Latino,Tecate,San Diego,California,2011-10-17 00:00:00
+Audrey,Cox,Female,27.0,White,Pomona,Los Angeles,California,1993-09-06 00:00:00
+Jeannette,Kamahele,Female,20.0,Asian or Pacific Islander,Cotati,Sonoma,California,1972-04-25 09:30:00
+Brenda,Allen-szabo,Female,33.0,White,Chino,San Bernardino,California,1983-10-01 11:02:00
+Bao,Sun,Female,38.0,Asian or Pacific Islander,Sacramento,Sacramento,California,2007-09-07 00:00:00
+Alfonso,Venegas,Male,4.0,Non-White Hispanic/Latino,Van Nuys,Los Angeles,California,2011-06-03 00:00:00
+Kayla,Rosa,Female,11.0,Non-White Hispanic/Latino,San Francisco,San Francisco,California,2002-12-04 00:00:00
+Jerald,Williams,Male,20.0,White,Stockton,San Joaquin,California,2007-12-16 17:33:00
+Bruce,Caputo,Male,52.0,White,San Franciso,San Francisco,California,2005-12-31 00:00:00
+Anne,Robinson,Female,41.0,White,Gardena,Los Angeles,California,1972-01-03 00:00:00
+Adriana,Rojas,Female,35.0,Non-White Hispanic/Latino,Rowland Heights,Los Angeles,California,1996-05-07 00:00:00
+Terry,Fox,Male,38.0,White,Sacramento,Sacramento,California,1988-07-03 12:57:00
+Don,Baker,Male,15.0,White,Glendora,Los Angeles,California,1956-08-06 11:54:00
+Jeannine,Mehlhaff,Female,37.0,White,Napa,Napa,California,1993-07-29 00:00:00
+Cassandra,Sanchez,Female,2.0,Non-White Hispanic/Latino,Santa Ana,Orange,California,2004-03-19 00:00:00
+Mauricio,Bejarano,Male,42.0,White Hispanic/Latino,San Diego,San Diego,California,2011-07-08 00:00:00
+Juan,Rico,Male,81.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1987-01-20 08:00:00
+Robert,Gates,Male,65.0,White,Wilton,Sacramento,California,2010-12-13 17:17:00
+Marjorie,Zeilenga,Female,64.0,White,San Francisco,San Francisco,California,1998-09-20 00:00:00
+Robert,Miller,Male,30.0,White,San Diego,San Diego,California,1997-02-01 09:40:00
+Charlene,Rosser,Female,28.0,White,Eureka,Humboldt,California,1998-04-12 11:10:00
+Clark,Handa,Male,33.0,Asian or Pacific Islander,Fairfield,Solano,California,1984-08-23 00:00:00
+Heather,Cameron,Female,28.0,Native American,Redding,Shasta,California,2012-08-18 00:00:00
+Latisha,Mccarter,Female,16.0,Black/African American,Sacramento,Sacramento,California,1998-04-07 00:00:00
+Abril,Magdaleno,Female,37.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2010-01-08 00:00:00
+Cynthia,Maine,Female,26.0,White,San Diego,San Diego,California,1986-02-21 00:00:00
+Keith,Sparrow,Male,19.0,White,Victorville,San Bernardino,California,1991-08-26 21:30:00
+Shawn,Christman,Male,18.0,Native American,Alpine,San Diego,California,1991-06-12 00:00:00
+Shaliegh,Phillips,Female,38.0,White,El Cajon,San Diego,California,1988-02-12 00:00:00
+Sheila,Johnson,Female,40.0,Black/African American,Huntington Park,Los Angeles,California,2003-07-10 01:00:00
+Theodis,Morris,Male,61.0,Black/African American,Pomona,Los Angeles,California,1999-10-08 00:00:00
+Kenneth,O'neil,Male,46.0,White,Bellflower,Los Angeles,California,1984-07-22 00:00:00
+Thomas,James,Male,41.0,White,Los Angeles,Los Angeles,California,1998-06-18 00:00:00
+Timothy,Perryman,Male,53.0,White,Agoura Hills,Los Angeles,California,2004-03-28 15:33:00
+Andrea,Frey,Female,16.0,White,San Jacinto,Riverside,California,2014-02-09 00:00:00
+John,Walters,Male,43.0,Unknown,Los Angeles,Los Angeles,California,1981-04-24 18:30:00
+Crishtian,Hughes,Male,20.0,White,San Francisco,San Francisco,California,2013-02-07 01:18:00
+Maria,Serrano,Female,28.0,Non-White Hispanic/Latino,Half Moon Bay,San Mateo,California,1998-10-18 00:00:00
+Jaime,Garcia,Male,6.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2003-12-05 00:00:00
+Julissa,Guzman,Female,17.0,Non-White Hispanic/Latino,Rowland Heights,Los Angeles,California,2013-11-14 00:00:00
+Austin,Hernandez,Male,17.0,Non-White Hispanic/Latino,Tehachapi,Kern,California,1997-04-28 00:00:00
+Austin,Sparks,Male,16.0,White,Montgomery Creek,Shasta,California,2004-01-04 00:00:00
+Richard,Burton,Male,17.0,White,Lynwood,Los Angeles,California,2009-07-25 00:00:00
+Taliah,Willis,Female,15.0,Black/African American,Sacramento,Sacramento,California,2014-03-26 00:00:00
+Gary,Brown,Male,35.0,Black/African American,Los Angeles,Los Angeles,California,2004-12-02 18:08:00
+Juan,Tristan,Male,0.0,Non-White Hispanic/Latino,Summerland,Santa Barbara,California,1987-08-03 00:00:00
+Augustine,Sanchez,Male,50.0,Non-White Hispanic/Latino,Twin Peaks,San Bernardino,California,2003-05-02 00:00:00
+Jack,Phillips,Male,27.0,White,Big Bear Lake,San Bernardino,California,1995-08-06 00:00:00
+Jeffery,Chisholm,Male,19.0,White,West Covina,Los Angeles,California,1994-08-19 00:00:00
+Amysena,Chappell,Female,18.0,Black/African American,Hawthorne,Los Angeles,California,2004-09-07 00:00:00
+Evan,Snider,Male,33.0,White,Long Beach,Los Angeles,California,1976-10-22 11:24:00
+Tom,Starkel,Male,19.0,White,Palmdale,Los Angeles,California,1979-12-05 00:00:00
+Victoria,Cotten,Female,50.0,White,Goleta,Santa Barbara,California,2006-07-15 00:00:00
+Cithlali,Zamora,Male,5.0,Non-White Hispanic/Latino,Lancaster,Los Angeles,California,2010-06-30 00:00:00
+Armando,Noriega,Male,13.0,White Hispanic/Latino,Calexico,Imperial,California,1983-04-27 10:20:00
+Miriam,Giron,Female,17.0,Non-White Hispanic/Latino,Madera,Madera,California,2011-12-19 00:00:00
+Alexander,Ferguson,Male,0.0,White,San Francisco,San Francisco,California,1988-03-09 10:30:00
+Glenn,Morris,Male,20.0,White,Pasadena,Los Angeles,California,1959-01-01 00:00:00
+Lesa,Cunningham,Female,24.0,Black/African American,Chino,San Bernardino,California,1987-07-09 10:02:00
+Jackson,Miller,Male,23.0,White,San Francisco,San Francisco,California,2010-05-15 00:00:00
+Edgar,Vega,Male,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-08-05 00:00:00
+Rebecca,Rodriguez,Female,16.0,White Hispanic/Latino,Brentwood,Contra Costa,California,1977-07-16 00:00:00
+Tomas,Miranda,Male,80.0,Non-White Hispanic/Latino,,,,2006-11-06 08:00:00
+Evangeline,Silva,Female,19.0,White Hispanic/Latino,Oakley,Contra Costa,California,1977-07-16 00:00:00
+Christopher,Gale,Male,40.0,White,Forest Knolls,Marin,California,2005-01-23 00:00:00
+Earl,Atkinson,Male,50.0,White,Avalon,Los Angeles,California,1970-07-29 00:00:00
+Danielle,Bertolini,Female,23.0,White,Fortuna,Humboldt,California,2014-02-10 00:00:00
+David,Gosnell,Male,19.0,White Hispanic/Latino,Fontana,San Bernardino,California,1998-06-10 00:00:00
+Anna,Waters,Female,46.0,White,Half Moon Bay,San Mateo,California,1973-01-16 00:00:00
+Charlene,White,Female,41.0,White,Mentone,San Bernardino,California,1997-11-17 00:00:00
+Daniel,Shea,Male,59.0,White,Sausalito,Marin,California,2013-08-10 11:30:00
+Louis,Burke,Male,19.0,Black/African American,Los Altos Hills,Santa Clara,California,1993-08-25 20:21:00
+Edrel,Pierce,Female,56.0,White,Humboldt,Humboldt,California,1981-05-17 00:00:00
+Marizel,Shirazy,Female,25.0,Non-White Hispanic/Latino,Chino,San Bernardino,California,1997-12-12 00:00:00
+Santana,Ornelas,Male,44.0,Non-White Hispanic/Latino,Novato,Marin,California,1990-04-01 00:00:00
+Luis,Amaya,Male,7.0,Non-White Hispanic/Latino,Fresno,Fresno,California,2010-03-28 00:00:00
+Efren,Sandoval,Male,24.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1983-01-10 21:00:00
+William,Leach,Male,49.0,White,Laytonville,Mendocino,California,1976-03-17 00:00:00
+Eleuteria,Chavez,Female,14.0,Non-White Hispanic/Latino,Santa Maria,Santa Barbara,California,1989-11-26 00:00:00
+Maria,Frassinelli,Female,28.0,Non-White Hispanic/Latino,Chino,San Bernardino,California,2013-08-11 00:00:00
+Gus,Hoffman,Male,20.0,White,San Jose,Santa Clara,California,1978-07-04 17:00:00
+Tina,Adams,Female,13.0,White,Lancaster,Los Angeles,California,2012-09-30 00:00:00
+Sherry,Pickle,Female,57.0,White,San Diego,San Diego,California,1972-05-16 00:00:00
+Benito,Velasquez,Male,40.0,White Hispanic/Latino,Calexico,Imperial,California,1999-01-22 12:12:00
+Kayla,Gipson,Female,15.0,Black/African American,Elk Grove,Sacramento,California,2014-01-08 00:00:00
+Wayne,Sawyer,Male,7.0,Other,Los Angeles,Los Angeles,California,2008-12-14 00:00:00
+Nazario,Vail,Male,28.0,Non-White Hispanic/Latino,San Rafael,Marin,California,2013-01-05 14:00:00
+Duane,Patterson,Male,57.0,White,Crestline,San Bernardino,California,2011-10-07 00:00:00
+Jason,Russo,Male,39.0,White,Los Angeles,Los Angeles,California,1988-08-04 00:00:00
+Marilee,Bruszer,Female,33.0,White,Long Beach,Los Angeles,California,1978-08-22 10:36:00
+Mary,Simmons,Female,55.0,White,Fresno,Fresno,California,2011-08-01 15:14:00
+Kimberly,Portillo,Female,39.0,White,|Ocean Beach,|,San Francisco,California,1998-10-19 00:00:00
+Dikran,Knadjian,Male,20.0,Other,Yosemite National Park,Mariposa,California,1972-07-24 00:00:00
+John,Lusher,Male,41.0,White,Davenport,Santa Cruz,California,1983-07-02 00:00:00
+Sanford,Delano,Male,45.0,Unknown,Davenport,Santa Cruz,California,1983-07-02 00:00:00
+James,Bierman,Male,29.0,White,Santa Cruz,Santa Cruz,California,1999-02-23 00:00:00
+Stephen,Cook,Male,29.0,White,Davenport,Santa Cruz,California,1983-07-02 00:00:00
+Christopher,Vogen,Male,40.0,White,Santa Cruz,Santa Cruz,California,2006-10-02 00:00:00
+Francisco,Nino-vasquez,Male,20.0,Non-White Hispanic/Latino,Watsonville,Santa Cruz,California,2005-08-01 00:00:00
+Adrian,Comparan,Male,6.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-12-29 00:00:00
+Alicia,Stokes,Female,33.0,White,Oakland,Alameda,California,2007-11-25 10:30:00
+Daniel,Shrock,Male,43.0,White,Bakersfield,Kern,California,1979-01-01 01:01:00
+Jana,Carpenter-koklich,Female,41.0,White,Lakewood,Los Angeles,California,2001-08-20 00:00:00
+Michael,Griffin,Male,18.0,White,San Pedro,Los Angeles,California,1958-03-01 00:00:00
+Harlon,Hairford,Male,59.0,White,Santa Cruz,Santa Cruz,California,2006-04-08 00:00:00
+Joliet,Cedano,Female,8.0,Other,Lake Los Angeles,Los Angeles,California,2006-09-11 00:00:00
+Charles,Jones,Male,25.0,White,Chowchilla,Madera,California,1957-05-01 00:00:00
+Peter,Theriault,Male,51.0,White,Irvine,Orange,California,1998-12-02 00:00:00
+Dena,Mchan,Female,19.0,White,Stockton,San Joaquin,California,1981-12-06 23:30:00
+Michael,Burnett,Male,57.0,White,Oroville,Butte,California,1971-03-17 00:00:00
+Ronald,Lye,Male,55.0,White,San Rafael,Marin,California,1992-12-07 08:00:00
+Sarah,Tokier,Female,53.0,White,Montebello,Los Angeles,California,1976-01-01 00:00:00
+Alma,Root,Female,49.0,White,Auburn,Placer,California,1980-01-01 00:00:00
+Wendy,Abrams-nishikai,Female,21.0,White,Berkeley,Alameda,California,1989-10-31 00:00:00
+Lynn,Connes,Female,20.0,White,Berkeley,Alameda,California,1976-05-20 00:00:00
+Steve,Sky,Male,48.0,White,Torrance,Los Angeles,California,2001-04-24 00:00:00
+Mary,Brenion,Female,78.0,White,Yucaipa,San Bernardino,California,2009-11-26 10:47:00
+Azure,Rosas,Male,17.0,White,Tarzana,Los Angeles,California,2014-04-04 00:00:00
+Frank,Bennett,Male,50.0,White,Santa Cruz,Santa Cruz,California,2007-02-01 00:00:00
+Anthony,Balthazar,Male,24.0,White,Santa Cruz,Santa Cruz,California,1980-03-24 00:00:00
+Israel,Enriquez,Male,1.0,Non-White Hispanic/Latino,Garden Grove,Orange,California,2008-07-13 00:00:00
+Jade,Flores,Female,8.0,Non-White Hispanic/Latino,San Jose,Santa Clara,California,2008-07-10 00:00:00
+Wayne,Williams,Male,53.0,White,El Toro,Orange,California,1998-05-30 00:00:00
+Anaiz,Enriquez,Female,15.0,Non-White Hispanic/Latino,Garden Grove,Orange,California,2008-07-13 00:00:00
+Natasha,Martin,Female,16.0,Other,San Diego,San Diego,California,2013-03-21 00:00:00
+Curtis,Jones Jr.,Male,47.0,White,Running Springs,San Bernardino,California,1991-05-15 00:00:00
+Dominic,Alderson,Male,28.0,White,San Rafael,Marin,California,1985-03-16 13:00:00
+Linda,Miller,Female,19.0,Native American,San Rafael,Marin,California,1973-07-01 00:00:00
+Michael,Gonzalez Avianeda,Male,7.0,Non-White Hispanic/Latino,Sunnyvale,Santa Clara,California,2011-12-18 00:00:00
+Norman,Lum,Male,31.0,Asian or Pacific Islander,Mill Valley,Marin,California,1988-04-05 08:30:00
+Gerald,Rabourn,Male,88.0,White,San Diego,San Diego,California,2010-10-19 00:00:00
+Elias,Martinez,Male,24.0,White Hispanic/Latino,Fallbrook,San Diego,California,2000-09-24 00:00:00
+Alexandra,Mcintire,Female,20.0,White,San Diego,San Diego,California,1994-07-20 00:00:00
+Rafael,Pinuelas,Male,67.0,White Hispanic/Latino,El Cajon,San Diego,California,2005-06-30 00:00:00
+Jose,Cortez,Male,41.0,White Hispanic/Latino,Stockton,San Joaquin,California,1992-04-04 02:00:00
+Stephan,Dunaetz,Male,24.0,White,Los Angeles,Los Angeles,California,1981-09-23 00:00:00
+Helmut,Altmann,Male,31.0,White,Beverly Hills,Los Angeles,California,1984-10-30 00:00:00
+Ernest,Trescott,Male,86.0,White,Vallejo,Solano,California,1989-06-11 10:54:00
+John,Higham,Male,24.0,White,Los Angeles,Los Angeles,California,1980-06-24 00:00:00
+Karen,Mitchell,Female,33.0,White,Eureka,Humboldt,California,1997-11-25 00:00:00
+John,Montoya,Male,63.0,Non-White Hispanic/Latino,Whittier,Los Angeles,California,2008-07-15 00:00:00
+Lynn,Luray,Female,65.0,White,Long Beach,Los Angeles,California,1964-08-17 00:00:00
+Michael,Amico Wallace,Male,29.0,White,Menlo Park,San Mateo,California,2003-02-04 00:00:00
+Angela,Martinez,Female,10.0,Non-White Hispanic/Latino,Garden Grove,Orange,California,2007-03-01 00:00:00
+Shawn,Dickerson,Male,23.0,White,San Francisco,San Francisco,California,2011-12-02 00:00:00
+Vanessa,Uybungco,Female,7.0,Non-White Hispanic/Latino,National City,San Diego,California,2013-06-07 00:00:00
+Shawn,Hale,Male,19.0,White,Apple Valley,San Bernardino,California,1994-11-04 14:31:00
+John,Butler,Male,48.0,White,Santa Monica,Los Angeles,California,1999-09-16 00:00:00
+Selena,Cubias,Female,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-07-20 20:00:00
+Deleaha,Brown-dawson,Female,15.0,Black/African American,Los Angeles,Los Angeles,California,2012-06-15 07:00:00
+Karen,Tompkins,Female,63.0,White,Torrance,Los Angeles,California,1961-08-18 00:00:00
+Hammam,Mosallam,Male,47.0,White,Vallejo,Solano,California,2012-07-14 07:14:00
+Martin,Gentry,Male,23.0,White,Rancho Cordova,Sacramento,California,1986-07-20 15:00:00
+Bobette,Ulrich,Female,41.0,White,South Lake Tahoe,El Dorado,California,2003-02-08 00:00:00
+Romeo,Sierra-portillo,Male,51.0,Non-White Hispanic/Latino,Lawndale,Los Angeles,California,2006-09-26 09:00:00
+Ashley,Lewin,Female,16.0,White,Littlerock,Los Angeles,California,2013-05-26 00:00:00
+Wesley,Rivera-romero,Female,15.0,Non-White Hispanic/Latino,Oxnard,Ventura,California,2005-01-22 00:00:00
+Shinho,Seo,Male,34.0,Other,Norwalk,Los Angeles,California,2004-01-01 12:45:00
+Robert,Carr,Male,34.0,White,Palos Verdes,Los Angeles,California,1979-11-20 06:00:00
+Mark,Marvin,Male,38.0,White,San Francisco,San Francisco,California,2011-10-09 21:39:00
+Marilyn,Waltz,Female,25.0,White,Bakersfield,Kern,California,1978-01-07 00:00:00
+John,Gilardo,Male,61.0,White,San Diego,San Diego,California,1995-01-01 00:00:00
+Cort,Jones,Male,23.0,White,Redding,Shasta,California,2012-08-16 00:00:00
+Samantha,Mcsmith,Female,16.0,White,Santa Rosa,Sonoma,California,2013-08-26 00:00:00
+Juan,Villanueva,Male,25.0,Non-White Hispanic/Latino,Stockton,San Joaquin,California,2007-04-13 09:59:00
+Loren,Harvey,Male,41.0,White,Paradise,Butte,California,2010-10-15 20:23:00
+Matthew,Bergman,Male,21.0,White,San Diego,San Diego,California,2011-07-26 00:00:00
+Lillian,Holmes,Female,21.0,Black/African American,Pasadena,Los Angeles,California,1984-03-22 00:00:00
+David,Cambray,Male,24.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2006-05-21 00:00:00
+Larry,Williams,Male,55.0,White,Long Beach,Los Angeles,California,1975-01-25 00:00:00
+Jessie,Stuart,Female,39.0,White,Honeydew,Humboldt,California,1977-12-10 00:00:00
+Rhonda,Yocom,Female,20.0,Asian or Pacific Islander,Oroville,Plumas,California,1985-02-07 00:00:00
+Diana,Silva-garcia,Female,16.0,Non-White Hispanic/Latino,Costa Mesa,Orange,California,2011-04-19 22:00:00
+Skiler,Trost,Male,17.0,White,Turlock,Stanislaus,California,2014-02-26 00:00:00
+Marisol,Espinoza,Female,19.0,Non-White Hispanic/Latino,Azusa,Los Angeles,California,2010-12-01 00:00:00
+Jessica,Gomez,Female,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-05-22 00:00:00
+Mikeal,Welch,Male,17.0,Non-White Hispanic/Latino,Tulare,Tulare,California,2013-08-30 00:00:00
+Brenda,Nunez,Female,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-06-08 00:00:00
+Low,Nam,Male,44.0,Asian or Pacific Islander,San Diego,San Diego,California,1997-02-07 15:47:00
+David,Barth,Male,70.0,White,Blue Canyon,Placer,California,2004-07-30 15:15:00
+Mary,Helm,Female,43.0,White,Alta,Placer,California,2007-01-20 13:40:00
+Brian,Deese,Male,42.0,White,North Lake Tahoe,Placer,California,1996-08-29 12:55:00
+Troy,Anderson,Male,36.0,White,Santa Cruz,Santa Cruz,California,1997-04-07 00:00:00
+Jordy,Rodriguez,Male,12.0,Non-White Hispanic/Latino,Santa Ana,Orange,California,2008-07-25 00:00:00
+Hilarion,Calderon,Male,57.0,Non-White Hispanic/Latino,San Ysidro,San Diego,California,2011-06-26 12:00:00
+Frank,Singer,Male,53.0,White,Newcastle,Placer,California,1997-06-10 18:30:00
+George,Jordache,Male,32.0,White,Los Angeles,Los Angeles,California,1981-06-01 16:13:00
+David,Carteaux,Male,35.0,White,San Diego,San Diego,California,1995-10-30 00:00:00
+Jeraldo,Carranza Bravo,Male,6.0,White,San Jose,Santa Clara,California,2013-12-27 00:00:00
+Daniel,Cho,Male,18.0,Asian or Pacific Islander,Somis,Ventura,California,2006-04-14 02:22:00
+Kianna,Jackson,Female,20.0,White Hispanic/Latino,Santa Ana,Orange,California,2013-10-03 00:00:00
+Dominique,Dominguez,Female,16.0,Non-White Hispanic/Latino,San Dimas,Los Angeles,California,2013-02-08 00:00:00
+Marjorie,Linehan,Female,49.0,White,Sacramento,Sacramento,California,1982-10-01 00:50:00
+Richard,Massaro,Male,28.0,White,Redlands,San Bernardino,California,1992-06-26 00:00:00
+William,Prescott,Male,23.0,White,Santa Cruz,Santa Cruz,California,1980-02-05 00:00:00
+Cindy,Mellin,Female,19.0,White,Ventura,Ventura,California,1970-01-20 16:27:00
+Bridgett,Pendell-williamson,Female,23.0,White,Santa Cruz,Santa Cruz,California,1996-01-12 00:00:00
+Rebecca,Patterson,Female,38.0,White,Santa Cruz,Santa Cruz,California,1997-08-20 00:00:00
+Hailey,Caylor,Female,15.0,White,Hacienda Heights,Los Angeles,California,2013-02-14 00:00:00
+Javier,Rodriguez Valadez,Male,42.0,Non-White Hispanic/Latino,Mira Loma,Riverside,California,2012-07-08 14:21:00
+Naziha,Duela,Female,49.0,Other,Studio City,Los Angeles,California,2007-10-20 00:00:00
+Saul,Curiel,Male,34.0,White Hispanic/Latino,Santa Barbara,Santa Barbara,California,1996-07-15 00:00:00
+Jose,Crespo Venegas,Male,42.0,Non-White Hispanic/Latino,Calexico Or Mexicali,Imperial,California,2009-08-01 00:00:00
+Dennis,Dobrovolny,Male,55.0,White,Lake Hughes,Los Angeles,California,2011-02-03 00:00:00
+Gail,Dahl,Female,22.0,White,Simi Valley,Ventura,California,1980-08-02 00:00:00
+Elizabeth,Byron,Female,36.0,White,Oxnard,Ventura,California,1978-05-01 00:00:00
+Lindsay,Mcdougall,Male,32.0,White,Santa Rosa,Sonoma,California,1984-09-09 00:00:00
+Bryce,Laspisa,Male,19.0,White,Castaic,Los Angeles,California,2013-08-30 00:00:00
+Matthew,Anderson,Male,30.0,White,Roseville,Placer,California,1996-06-11 00:00:00
+Brian,Carlstrom,Male,26.0,White,Silver Lakes,San Bernardino,California,1986-08-09 00:00:00
+Patrick,Mello,Male,32.0,White,Needles,San Bernardino,California,1995-07-28 00:00:00
+Jonathan,Rodriguez Marina,Male,6.0,Non-White Hispanic/Latino,Santa Ana,,California,2008-07-25 00:00:00
+Steven,Gonzales,Male,25.0,White,San Dimas,Los Angeles,California,1996-06-15 00:00:00
+Anthony,Eklund,Male,9.0,Other,San Jose,Santa Clara,California,2012-12-14 00:00:00
+Fernando,Limas,Male,1.0,White,Orange,Orange,California,2012-04-12 00:00:00
+Richard,Linse,Male,44.0,White,Redding,Shasta,California,2007-09-26 11:08:00
+Bobbie,Mcdowell,Female,58.0,Black/African American,Rosemead,Los Angeles,California,2004-01-08 12:00:00
+Andonios,Petroutsas,Male,8.0,White,Capitola,Santa Cruz,California,2010-05-01 00:00:00
+Wallace,Richards,Male,23.0,Black/African American,San Francisco,San Francisco,California,2005-11-10 12:00:00
+Terry,Spence,Male,64.0,White,San Bruno,San Mateo,California,2009-06-13 00:00:00
+Raheem,Wright,Male,18.0,Black/African American,La Verne,Los Angeles,California,2012-10-18 00:00:00
+Kelli,Abad,Female,27.0,White,|Okinawa, Japan|,Kern,California,2011-10-26 00:00:00
+Brian,Butler,Male,36.0,White,Pacifica,San Mateo,California,2014-02-16 00:00:00
+Kathyren,Burgess,Female,70.0,White,Los Angeles,Los Angeles,California,1991-04-07 00:00:00
+Nguyen,Trinh,Male,35.0,Asian or Pacific Islander,San Diego,San Diego,California,2000-06-17 05:00:00
+Dan,Pogue,Male,25.0,White,Eureka,Humboldt,California,1990-10-01 10:43:00
+Hannah,Rowell,Female,28.0,White,Eurkea,Humboldt,California,1993-09-01 10:10:00
+John,Kreyche,Male,38.0,White,San Diego,San Diego,California,1991-12-10 00:00:00
+Sabrina,Flores,Female,16.0,Non-White Hispanic/Latino,Valencia,Los Angeles,California,2013-10-13 00:00:00
+Mary,Mccullar,Female,36.0,White Hispanic/Latino,Bakersfield,Kern,California,1987-06-06 00:00:00
+Bernardo,Hernandez - Lopez,Male,21.0,White Hispanic/Latino,San Diego,San Diego,California,1995-02-14 00:00:00
+John,Butler,Male,67.0,White,Newport Beach,Orange,California,1961-08-21 00:00:00
+Thomas,Hull Jr.,Male,82.0,White,San Ysidro,San Diego,California,1990-06-01 00:00:00
+Ernest John,Macadaeg,Male,5.0,Asian or Pacific Islander,Davis,Yolo,California,2012-01-18 00:00:00
+Nick,Marich,Male,41.0,White,West Hollywood,Los Angeles,California,1977-03-04 08:00:00
+Robert,Goodbar,Male,63.0,White,Burbank,Los Angeles,California,2006-01-01 00:00:00
+Jesus,Sicairos,Male,32.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,2009-07-14 00:00:00
+Bach,Nguyen,Male,48.0,Asian or Pacific Islander,Dillon Beach,Marin,California,2011-06-26 15:00:00
+Harold,Mincher,Male,35.0,White,Los Angeles,Los Angeles,California,1981-11-16 18:00:00
+Rasheeyda,Wilson,Female,32.0,Black/African American,San Diego,San Diego,California,1991-07-15 00:00:00
+Alfonso,Campos,Male,13.0,Non-White Hispanic/Latino,Fresno,Fresno,California,2001-12-05 00:00:00
+Regina,Garcia,Female,33.0,White Hispanic/Latino,Sacramento,Sacramento,California,2008-10-30 17:04:00
+Greer,Coursey,Male,50.0,White,San Luis Obispo,San Luis Obispo,California,2007-05-18 00:00:00
+Andrew,Garcia,Male,15.0,Non-White Hispanic/Latino,Chino,San Bernardino,California,2013-01-18 23:05:00
+Tilsia,Martinez,Female,45.0,White Hispanic/Latino,La Puente,Los Angeles,California,2002-04-12 07:45:00
+David,Daniel,Male,29.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2007-10-02 14:00:00
+Melissa,Braden,Female,9.0,Unknown,Los Angeles,,California,2006-03-16 00:00:00
+John,Belloni,Male,42.0,White,Laguna Beach,Orange,California,1996-04-29 00:00:00
+Roger,Carlson,Male,32.0,White,Sausalito,Marin,California,1972-01-01 00:00:00
+Mason,Fernandez,Male,12.0,Other,San Diego,San Diego,California,2004-11-08 00:00:00
+Mickey,Guidry,Male,20.0,White,San Marcos,San Diego,California,2009-11-26 00:00:00
+Bruce,Kremen,Male,60.0,White,Montrose,Los Angeles,California,1960-07-12 00:00:00
+Dennis,Samstag,Male,34.0,White,Needles,San Bernardino,California,1994-07-07 17:00:00
+Larry,Perez,Male,18.0,Non-White Hispanic/Latino,Chula Vista,San Diego,California,2004-05-16 00:00:00
+Charles,Francis,Male,42.0,White,Santa Ana,Orange,California,1979-04-09 00:00:00
+Nayeli,Yanez-perez,Female,17.0,Non-White Hispanic/Latino,Morgan Hill,Santa Clara,California,2013-05-25 00:00:00
+Hector,Rivera,Male,21.0,White Hispanic/Latino,Santa Ana,Orange,California,2000-01-27 12:52:00
+Patrica,Van Buskirk,Female,54.0,White,Oxnard,Ventura,California,1987-04-27 17:53:00
+Deborah,Hawk,Female,46.0,White,Hanford,Kings,California,2006-06-12 14:54:00
+Clifford,Cox,Male,54.0,White,Elk,Mendocino,California,1986-02-21 15:00:00
+Peter,Radcliff,Male,31.0,White,San Francisco,San Francisco,California,1991-08-29 00:00:00
+Darren,Case,Male,32.0,White,Los Angeles,Los Angeles,California,2012-12-03 00:00:00
+Dolores,Martinez,Female,35.0,White,Highland,San Bernardino,California,1988-07-24 12:25:00
+Adolfo,Ortega-hussong,Male,37.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1994-02-16 19:00:00
+Monica,Axume-garcia,Female,14.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-09-09 00:00:00
+Sandra,Lowe,Female,24.0,White,Anaheim,Orange,California,1987-01-05 00:00:00
+Sylvia,Standley,Female,31.0,White Hispanic/Latino,Modesto,Stanislaus,California,1986-06-03 00:00:00
+Royal,Foote,Male,19.0,Black/African American,Daly City,San Francisco,California,2012-01-22 00:00:00
+Thoeun,Peng,Male,23.0,Asian or Pacific Islander,Fresno,Fresno,California,1997-02-22 00:00:00
+Mary,Walker,Female,39.0,Black/African American,Long Beach,Los Angeles,California,1995-12-16 15:15:00
+Mario,Lopez,Male,15.0,Non-White Hispanic/Latino,Livingston,Merced,California,2005-03-08 00:00:00
+Christopher,Coggin,Male,52.0,White,Washington,Nevada,California,2013-02-16 00:00:00
+Michelle,Hochman,Female,15.0,White,Northridge,Los Angeles,California,1982-10-12 18:17:00
+Isadora,Sorrozo,Female,13.0,White Hispanic/Latino,Simi Valley,Ventura,California,2000-12-03 00:00:00
+Richard,Strehle,Male,26.0,White,South Lake Tahoe,El Dorado,California,1973-07-05 00:00:00
+Angela,Fullmer,Female,34.0,White,Mt. Shasta,Siskiyou,California,2002-12-15 16:24:00
+Crystal,Tymich,Female,26.0,White,Los Angeles,Los Angeles,California,1994-06-30 00:00:00
+Romelia,Valentin,Female,15.0,Non-White Hispanic/Latino,Fontana,San Bernardino,California,1999-06-04 00:00:00
+Troy,Le,Male,19.0,Asian or Pacific Islander,San Diego,San Diego,California,2010-03-20 18:20:00
+Wilma,Vermaas,Female,23.0,White,Los Angeles,Los Angeles,California,1976-04-03 15:21:00
+Ava,Miranda,Female,9.0,White,El Segundo,Los Angeles,California,2012-11-26 00:00:00
+Tammy,Flores,Male,10.0,Non-White Hispanic/Latino,Victorville,San Bernardino,California,2007-10-23 00:00:00
+Maureen,Baca,Female,32.0,White,Adelanto,San Bernardino,California,1982-08-21 19:37:00
+Christopher,Schafer,Male,29.0,White,El Cajon,San Diego,California,1997-08-06 00:00:00
+Savannah,Martinez,Male,11.0,Non-White Hispanic/Latino,Sacramento,Sacramento,California,2011-04-04 00:00:00
+Dionisio,Perez Hernandez,Male,25.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1996-08-05 00:00:00
+Teresa,Alcaraz,Female,26.0,Non-White Hispanic/Latino,Stockton,San Joaquin,California,2001-07-13 13:11:00
+Daniel,Carver,Male,32.0,White,Bloomington,San Bernardino,California,1997-01-17 00:00:00
+Joel,Mendoza,Male,22.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1995-02-22 23:00:00
+Adam,Henderson,Male,17.0,White,Bakersfield,Kern,California,2014-04-05 00:00:00
+Jose,Dominguez,Male,48.0,Non-White Hispanic/Latino,Stockton,San Joaquin,California,1981-08-02 00:00:00
+Jeffrey,Lowery,Male,23.0,White,San Luis Obispo,San Luis Obispo,California,1981-11-12 19:00:00
+Nathan,Florence,Male,48.0,White,Shingletown,Shasta,California,2010-08-24 00:00:00
+Ernestina,Madrigal,Female,67.0,Non-White Hispanic/Latino,Lynwood,Los Angeles,California,2001-08-05 00:00:00
+Carol,Lubahn,Female,26.0,White,Torrance,Los Angeles,California,1981-03-30 23:59:00
+Diane,Lima,Female,30.0,White,Westley,Stanislaus,California,2005-03-21 00:00:00
+Carlos,Limas,Male,43.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1981-04-24 19:00:00
+Hector,Lopez-ruiz,Male,20.0,Non-White Hispanic/Latino,Vista,San Diego,California,1997-10-15 00:00:00
+Wendy,Byron,Female,24.0,White,Glendora,Los Angeles,California,1978-08-26 00:00:00
+Rachel,Jones,Female,27.0,White,Los Angeles,Los Angeles,California,1995-03-11 00:00:00
+Daisy,Gamboa,Female,5.0,Other,Los Angeles,Los Angeles,California,2012-12-18 00:00:00
+Kerry,Graham,Female,50.0,Native American,Forestville,Sonoma,California,1979-12-24 00:00:00
+Godofredo,Masangya,Male,79.0,Asian or Pacific Islander,Chula Vista,San Diego,California,2005-09-14 16:30:00
+Denise,Rodriguez,Female,17.0,White,San Francisco,San Francisco,California,1984-03-10 17:03:00
+Michael,Bell,Male,26.0,Black/African American,Los Angeles,Los Angeles,California,2011-09-16 00:00:00
+Zeltzin,Moreno,Female,13.0,Non-White Hispanic/Latino,Hesperia,San Bernardino,California,2011-09-29 00:00:00
+Soni,Benetton,Male,15.0,White,Fontana,San Bernardino,California,1989-05-26 00:00:00
+Gary,Patton,Male,64.0,White,San Diego,San Diego,California,2013-09-05 10:00:00
+Jesus,Carrillo,Male,10.0,Non-White Hispanic/Latino,Hesperia,San Bernardino,California,1997-10-18 00:00:00
+Susan,Bender,Female,43.0,White,Modesto,Stanislaus,California,1986-04-25 00:00:00
+Todd,Collett,Male,54.0,White,Goleta,Santa Barbara,California,1964-01-23 00:00:00
+Kim,Mallon,Female,54.0,White,Los Angeles,Los Angeles,California,1973-09-30 00:00:00
+Jon,Duvall,Female,13.0,Other,Whittier,Los Angeles,California,2007-03-28 00:00:00
+Connie,Minchaca,Female,53.0,White,Napa,Napa,California,1978-06-09 00:00:00
+Michael,Udow,Male,45.0,White,Big Bear,San Bernardino,California,1993-11-05 15:49:00
+Marlene,Gonzalez,Female,14.0,Non-White Hispanic/Latino,Calexico,Imperial,California,2009-09-30 00:00:00
+Isabel,Fabian-lopez,Female,21.0,White Hispanic/Latino,Coronado,San Diego,California,2003-08-06 17:17:00
+Randy,Spring,Male,28.0,White,White Water,Riverside,California,1988-10-10 21:58:00
+John,Kerby,Male,29.0,White,Red Bluff,Tehama,California,1986-02-01 00:00:00
+Latoya,Thomas,Female,29.0,Black/African American,Hayward,Alameda,California,2000-09-30 00:00:00
+Charles,Stanley,Male,37.0,Black/African American,Lynwood,Los Angeles,California,1980-09-29 22:30:00
+Elisabeth,Martinson,Female,22.0,White,Kentfield,Marin,California,1982-01-28 00:00:00
+Jason,Ryan,Male,29.0,White,San Francisco,San Francisco,California,2008-09-12 16:45:00
+Gregory,Anspaugh,Male,29.0,White,Concord,Contra Costa,California,1999-03-03 00:00:00
+Clive,Barry,Male,16.0,White,Mill Valley,Marin,California,2007-01-08 00:00:00
+Alexandra,Bakker,Female,11.0,White,Littlerock,Los Angeles,California,2008-08-06 00:00:00
+Joana,Hernandez,Female,18.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2011-06-26 00:00:00
+Martin,Ruvalcaba,Male,47.0,Non-White Hispanic/Latino,Newman,Stanislaus,California,2009-02-14 11:00:00
+William,Weinischke,Male,19.0,White,Los Angeles,Los Angeles,California,1997-11-05 00:00:00
+Christie,Wilson,Female,27.0,White,Lincoln,Placer,California,2005-10-05 01:13:00
+Ann,Duncan,Female,31.0,White,San Francisco,San Francisco,California,1969-10-03 00:00:00
+Rosie,Rios,Female,17.0,Non-White Hispanic/Latino,Sacramento,Sacramento,California,2013-01-08 00:00:00
+Harvey,Dubs,Male,30.0,White,San Francisco,San Francisco,California,1984-07-25 00:00:00
+Martin,Aguirre,Male,16.0,Non-White Hispanic/Latino,Los Angles,Los Angeles,California,2011-10-18 00:00:00
+Rolando,Cebreros,Male,26.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1997-02-21 19:30:00
+Lynn,Bandringa,Female,21.0,White,Hesperia,San Bernardino,California,1967-05-29 00:00:00
+Jennifer,Wilmer,Female,21.0,White,Hawkins Bar,Trinity,California,1993-09-13 00:00:00
+Christopher,King,Male,25.0,White,Rialto,San Bernardino,California,1974-08-02 15:00:00
+Mark,Leese,Male,29.0,White,Pt Reyes Station,Marin,California,1990-05-31 00:00:00
+Francisco,Quinones,Male,48.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1997-02-21 00:00:00
+Walter,Leo,Male,14.0,Non-White Hispanic/Latino,Santa Ana,Orange,California,2006-01-28 00:00:00
+Josephine,Vargas,Female,34.0,Non-White Hispanic/Latino,Santa Ana,Orange,California,2013-10-27 00:00:00
+Joyce,Harper,Female,31.0,White,Potrero,San Diego,California,1975-01-01 00:00:00
+Paul,Michel,Male,25.0,White,Novato,Marin,California,1986-05-21 00:00:00
+John,Mendez,Male,46.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2006-07-13 11:30:00
+Michael,Gove,Male,41.0,White,Sunset Beach,Orange,California,1988-09-05 00:00:00
+Korey,Kauffman,Male,26.0,White,Turlock,Stanislaus,California,2012-03-29 00:00:00
+Jose,Rivera,Male,16.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2007-10-04 17:20:00
+David,Burnside,Male,49.0,Native American,Sacramento,Sacramento,California,1987-11-01 00:00:00
+Anna,Anderson,Female,19.0,White,Cypress,Orange,California,1983-12-05 00:00:00
+Benancio,Beltran,Male,24.0,Unknown,Santa Ana,Orange,California,1983-12-05 00:00:00
+Michael,Navarro,Male,17.0,Non-White Hispanic/Latino,Sacramento,Sacramento,California,1999-10-28 00:00:00
+Charles,Radice,Male,76.0,White,Lancaster,Los Angeles,California,1995-05-14 16:30:00
+Ashley,Higgins,Female,19.0,White,Costa Mesa,Orange,California,1982-11-06 00:00:00
+Raymond,Kung,Male,24.0,Asian or Pacific Islander,San Francisco,San Francisco,California,1981-03-09 00:00:00
+Suzanne,Arbell,Female,62.0,White,Los Angeles,Los Angeles,California,1993-04-18 00:00:00
+Tiffany,Roberts,Female,4.0,Black/African American,Los Angeles,Los Angeles,California,2000-01-01 00:00:00
+Glen,Kent,Male,50.0,White,Baldwin Park,Los Angeles,California,2001-07-01 00:00:00
+Frederick,Aragon,Male,28.0,White Hispanic/Latino,San Francisco,Solano,California,1987-07-18 00:00:00
+Bimlesh,Singh,Female,48.0,Other,Moreno Valley,Riverside,California,1994-06-24 11:00:00
+Frederick,Albert,Male,33.0,White,Fremont,Alameda,California,1993-06-06 00:00:00
+Lulaida,Sejalbo,Female,18.0,Asian or Pacific Islander,Santa Clara,Santa Clara,California,1973-11-25 17:43:00
+Richardo,Lupercio,Male,17.0,White,San Francisco,San Francisco,California,1984-03-10 17:04:00
+Pete,Campbell,Male,21.0,White,Downey,Los Angeles,California,1973-01-16 16:45:00
+Debra,Pscholka,Female,12.0,White,Corona,Riverside,California,1971-06-05 20:15:00
+Cindy,Ray,Female,0.0,White,Fresno,Fresno,California,1989-03-30 16:50:00
+Joseph,Cordova,Male,33.0,Asian or Pacific Islander,San Jose,Santa Clara,California,2012-05-01 00:00:00
+Robert,Black,Male,64.0,White,Los Angeles,Los Angeles,California,1996-03-01 00:00:00
+Emily,Sepulveda,Female,16.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-11-26 00:00:00
+Thomas,Trotter,Male,34.0,White,Oroville,Butte,California,1995-07-01 00:00:00
+Judy,Smith,Female,26.0,White,Chico,Butte,California,1988-11-03 00:00:00
+Debra,Buchholz,Female,47.0,White,Lafayette,Contra Costa,California,2011-06-12 00:00:00
+Patrick,Pfeiffer,Male,56.0,White,Altadena,Los Angeles,California,2011-07-28 01:00:00
+Kevin,Currie,Male,50.0,Black/African American,Vallejo,Solano,California,2009-01-03 13:19:00
+John,Chesley,Male,81.0,White,Oroville,Butte,California,2014-02-22 13:00:00
+Valerie,Larkin,Female,38.0,Other,Needles,San Bernardino,California,1985-02-01 00:00:00
+Ruth,Flores,Female,18.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2012-05-25 00:00:00
+Samuel,Rivera,Male,1.0,Non-White Hispanic/Latino,Ventura,Ventura,California,2009-09-06 03:21:00
+Priscila,Andrade,Female,15.0,Non-White Hispanic/Latino,Desert Hot Springs,Riverside,California,2014-02-06 00:00:00
+Jahi,Turner,Male,14.0,Black/African American,San Diego,San Diego,California,2002-04-25 00:00:00
+Floyd,Newman,Male,64.0,White,Needles,San Bernardino,California,1992-03-01 16:51:00
+Gilbert,Trujillo,Male,40.0,Non-White Hispanic/Latino,Desert Hot Springs,Riverside,California,2009-08-27 00:00:00
+Rolando,Gomez,Male,16.0,Non-White Hispanic/Latino,Fontana,San Bernardino,California,2012-04-01 00:00:00
+Benjamin,Lopez Jr,Male,28.0,White Hispanic/Latino,Stockton,San Joaquin,California,1991-06-02 00:00:00
+Carrie,Anderson,Female,20.0,White,San Diego,San Diego,California,1997-02-05 09:00:00
+Santamaria,Pickett,Female,2.0,Other,Los Angeles,Los Angeles,California,2013-06-04 00:00:00
+Keisuke,Koizumi,Male,22.0,Asian or Pacific Islander,San Francisco,San Francisco,California,2008-04-23 00:00:00
+William,Gande,Male,40.0,White,Santa Cruz,Santa Cruz,California,1982-03-06 00:00:00
+Dale,Mckay,Male,61.0,White,Fountain Valley,Orange,California,1978-12-24 16:14:00
+Crystal,Fox,Female,29.0,White,Sacramento,Sacramento,California,2008-12-30 12:00:00
+Diann,Peace,Female,68.0,White,South Pasadena,Los Angeles,California,2011-01-31 00:00:00
+Teresa,Mckinley,Female,27.0,White,Vacaville,Solano,California,1979-09-16 12:00:00
+Blanca,Romero,Female,37.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1999-09-04 15:30:00
+Flori,Paz,Female,15.0,Non-White Hispanic/Latino,Madera,Madera,California,2008-08-29 00:00:00
+Dominic,Thomas,Male,13.0,Black/African American,Ocean Beach,San Diego,California,1998-06-21 13:51:00
+Ruth,Leamon,Female,48.0,White,Modesto,Stanislaus,California,1982-08-19 00:00:00
+Arturo,Godines,Male,23.0,White,San Francisco,San Francisco,California,1982-08-16 00:00:00
+Mildred,Barrett,Female,60.0,White,Orange,Orange,California,2002-04-12 02:11:00
+Timothy,Geren,Male,32.0,White,Modesto,Stanislaus,California,2012-03-22 00:00:00
+Susan,Williams,Female,32.0,White,Marina Del Rey,Los Angeles,California,1986-09-12 12:00:00
+Erika,Limon,Female,31.0,Non-White Hispanic/Latino,Long Beach,Los Angeles,California,1999-07-22 00:00:00
+Steven,Keyes,Male,55.0,White,Sacramento,Sacramento,California,2005-04-06 09:45:00
+Miguel,Lopez,Male,52.0,Asian or Pacific Islander,Santa Rosa,Sonoma,California,2012-01-27 00:00:00
+Jefren,Esteban,Male,14.0,Asian or Pacific Islander,Glendale,Los Angeles,California,2007-01-23 00:00:00
+Jeffery,Bohl,Male,42.0,Native American,Pauma Valley,San Diego,California,2005-02-27 00:00:00
+Bonnie,Brashers,Female,50.0,White,Watsonville,Santa Cruz,California,1963-09-16 00:00:00
+Germano,Dilorenzo,Male,46.0,White,Santa Cruz,Santa Cruz,California,1996-02-10 00:00:00
+William,Crawford,Male,50.0,Black/African American,Santa Cruz,Santa Cruz,California,1978-05-15 00:00:00
+Ramon,Castillo,Male,21.0,Non-White Hispanic/Latino,Pomona,Los Angeles,California,1998-10-02 00:00:00
+Tyiesha,Burris,Female,17.0,Black/African American,Oakland,Alameda,California,2013-12-12 00:00:00
+Jasen,Demello,Male,24.0,White,Bay Point,Contra Costa,California,1996-03-01 00:00:00
+Hannah,Pobursky,Female,8.0,White,Oakhurst,Madera,California,2006-02-01 00:00:00
+Vanessa,Cebreros,Female,17.0,Non-White Hispanic/Latino,Los Angeles,,California,2012-09-26 00:00:00
+Mario,Gastellum-villa,Male,36.0,White Hispanic/Latino,Victorville,San Bernardino,California,2005-04-30 12:25:00
+Ilma,Saucedo,Female,47.0,White Hispanic/Latino,Riverside,Riverside,California,2011-02-11 00:00:00
+Thomas,Bowman,Male,65.0,White,Altadena,Los Angeles,California,1957-03-23 00:00:00
+Stuart,Garbowitz,Male,26.0,White,Truckee,Placer,California,1982-03-25 13:46:00
+Richard,Mccarthy,Male,31.0,White,Sacramento,Sacramento,California,1990-10-15 00:00:00
+Patrick,Tanouye,Male,30.0,Asian or Pacific Islander,San Francisco,San Francisco,California,2012-09-27 00:00:00
+Ron,Knutson,Male,26.0,White,Morongo Valley,San Bernardino,California,1982-12-18 00:00:00
+Gwendolyn,Hooser,Female,58.0,Black/African American,Burbank,Los Angeles,California,2007-01-08 00:00:00
+Ximena,Granados,Female,6.0,Non-White Hispanic/Latino,Pomona,Los Angeles,California,2008-07-30 00:00:00
+Kristine,Hamilton,Female,27.0,White,Moreno Valley,Riverside,California,2005-07-07 00:00:00
+Stephanie,Ramirez,Female,16.0,Non-White Hispanic/Latino,Montclair,San Bernardino,California,2012-05-20 00:00:00
+John,Doe1986,Male,16.0,Non-White Hispanic/Latino,Kingsburg,,California,1986-08-20 00:00:00
+David,Collette,Male,52.0,White,Stockton,San Joaquin,California,1984-05-22 04:30:00
+Destinee,Silva,Female,16.0,Black/African American,Daly City,San Mateo,California,2013-04-13 00:00:00
+Theresa,Bier,Female,16.0,White,Fresno,Fresno,California,1986-06-01 19:20:00
+Edith,Baker,Female,79.0,White,Julian,San Diego,California,2001-08-26 06:00:00
+Benjamin,Barros,Male,44.0,White,Cotati,Sonoma,California,2004-05-01 04:45:00
+Brandi,Krajewski,Female,33.0,Native American,Nipton,San Bernardino,California,1982-10-09 00:00:00
+Guadalupe,Dailey,Female,26.0,Other,Santee,San Diego,California,1997-08-31 00:00:00
+Norman,Thurber,Male,54.0,White,San Felipe Baja,,California,1993-04-01 00:00:00
+Randy,Mcbee,Male,23.0,White,Oakland,Alameda,California,1971-11-01 00:00:00
+Maria,Sanchez,Female,30.0,White,San Diego,San Diego,California,1993-03-31 23:48:00
+William,Clark,Male,67.0,White,Novato,Marin,California,2013-06-25 16:30:00
+Anibal,Romero,Male,32.0,Non-White Hispanic/Latino,Whittier,Los Angeles,California,2007-10-03 21:00:00
+Beverly,Ribley,Female,29.0,White,Spring Valley,San Diego,California,1975-04-27 00:00:00
+Thomas,Lytle,Male,30.0,White,Kentfield,Marin,California,1986-06-01 18:00:00
+Nickan,Almasi,Male,9.0,White,San Ramon,Contra Costa,California,2009-12-31 00:00:00
+Wendy,Euceda,Female,7.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-11-08 00:00:00
+Froilan,Rosales,Male,40.0,Non-White Hispanic/Latino,Winterhaven,Imperial,California,1989-09-22 00:00:00
+Richard,Boldon,Male,41.0,White,West Hollywood,Los Angeles,California,1971-08-19 01:30:00
+Emilio,Salgado-espino,Male,27.0,Non-White Hispanic/Latino,Vacaville,Solano,California,2011-08-01 00:00:00
+Cheyenne,Olson,Female,17.0,White,Eureka,Humboldt,California,2013-05-06 00:01:00
+Jimmy,Beattie,Male,47.0,White,San Diego,San Diego,California,2002-02-15 00:00:00
+Joseph,Horrevoets,Male,37.0,White,San Diego,San Diego,California,2012-02-10 00:00:00
+Penelope,Milbourn,Female,24.0,White,Eureka,Humboldt,California,1988-06-07 11:28:00
+Cheryl,Wyant,Female,49.0,White,Rohnert Park,Sonoma,California,1978-05-01 00:00:00
+Robert,Bennett,Male,51.0,White,Whittier,Los Angeles,California,1983-02-16 10:30:00
+Nahid,Nassabi,Female,29.0,White,Lake Forest,Orange,California,1984-06-19 00:00:00
+Omer,Allen,Male,64.0,White,San Diego,San Diego,California,2004-10-18 00:00:00
+Larry,Wood,Male,40.0,White,San Diego,San Diego,California,1998-03-17 10:00:00
+Anthony,Bryant,Male,23.0,White,Sacramento,Sacramento,California,1980-09-11 00:00:00
+Ronald,Kruska,Male,18.0,White,Saugus,Los Angeles,California,1978-10-10 14:00:00
+Luis,Munguia-zendejas,Male,8.0,Non-White Hispanic/Latino,Tulare,Tulare,California,2007-05-05 00:00:00
+Heng Yu,Zhou,Male,34.0,Asian or Pacific Islander,Diamond Bar,Los Angeles,California,2012-07-05 06:30:00
+Eric,Sermon,Male,16.0,Black/African American,Chino,San Bernardino,California,1996-08-20 12:00:00
+James,Mulley,Male,16.0,White,Chino,San Bernardino,California,1993-07-13 18:00:00
+Gilbert,Mcdonald,Male,17.0,Native American,Lancaster,Los Angeles,California,2013-08-28 00:00:00
+Anna,Amici,Female,64.0,White,Palmdale,Los Angeles,California,1978-10-03 00:00:00
+Andy,Nguyen,Male,24.0,Asian or Pacific Islander,Mountain View,Santa Clara,California,1998-07-30 13:00:00
+Chris,Cunningham,Male,33.0,Black/African American,Chino,San Bernardino,California,1987-07-09 00:00:00
+Barbara,Burhans,Female,40.0,Other,Los Angeles,Los Angeles,California,1982-03-15 00:00:00
+Deisy,Herrera,Female,29.0,Non-White Hispanic/Latino,Bakersfield,Kern,California,1987-12-28 00:00:00
+Roderick,Cate,Male,55.0,White,Twin Peaks,San Bernardino,California,2002-10-14 10:23:00
+Paul,Landis,Male,26.0,White,Fresno,Fresno,California,2005-08-27 00:00:00
+Jody,Hall,Male,26.0,White,Hacienda Heights,Los Angeles,California,1987-05-10 19:30:00
+Mark,Addison,Male,22.0,White,San Luis Obispo,San Luis Obispo,California,1982-09-04 00:00:00
+Jerry,Tang,Male,39.0,Asian or Pacific Islander,San Francisco,San Diego,California,2005-11-29 10:00:00
+Norma,Morales,Female,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-10-22 00:00:00
+Wilma,Joiner,Female,70.0,Black/African American,Vacaville,Solano,California,2000-03-08 00:00:00
+Phouvuiay,Thetsombandith,Male,20.0,Asian or Pacific Islander,San Diego,San Diego,California,1991-08-18 00:00:00
+Michael,Troyer,Male,21.0,White,Duncan Landing State Park,Sonoma,California,1994-11-29 00:00:00
+Kathleen,Rodgers,Female,16.0,White,Oroville,Butte,California,1973-03-03 00:00:00
+Moses,Saiz,Male,30.0,Non-White Hispanic/Latino,Yermo,San Bernardino,California,2013-03-15 00:00:00
+Daniel,Southers,Male,25.0,White,Fort Bragg,Mendocino,California,1987-09-17 09:30:00
+Jasmine,Giles,Female,17.0,Other,Lincoln,Placer,California,2013-02-17 00:00:00
+Chiu,Jean,Female,45.0,Asian or Pacific Islander,San Diego,San Diego,California,1983-09-13 22:30:00
+Diana,Loewen,Female,37.0,White,Rancho Cordova,Sacramento,California,1997-11-02 22:00:00
+Andrew,Corona,Male,42.0,Non-White Hispanic/Latino,Riverside,Riverside,California,2012-03-12 00:00:00
+Travis,Zwieg,Male,26.0,White,Pinyon Pines,Riverside,California,1991-03-10 00:00:00
+Timothy,Criss,Male,18.0,White,Santa Rosa,Sonoma,California,1996-10-15 10:53:00
+Carl,Brennick,Male,32.0,White,Poway,San Diego,California,1992-07-28 00:00:00
+Miguel,Torres,Male,14.0,Non-White Hispanic/Latino,Bloomington,San Bernardino,California,2003-11-26 00:00:00
+Silvestre,Nicolas,Male,1.0,Non-White Hispanic/Latino,Riverside,Riverside,California,2013-09-08 00:00:00
+Maria,Estrada,Female,67.0,Asian or Pacific Islander,Nipton,San Bernardino,California,2008-06-07 00:00:00
+Jody,Crosby,Female,39.0,White,Anaheim,Orange,California,2012-01-01 00:00:00
+Stefania,Campos,Female,22.0,Non-White Hispanic/Latino,Downey,Los Angeles,California,2007-05-30 00:00:00
+Bijon,Smith,Female,16.0,White,Torrance,Los Angeles,California,2012-10-25 00:00:00
+Edward,Champagne,Male,20.0,White,Los Angeles,Los Angeles,California,1979-12-01 00:00:00
+Norman,Creech,Male,26.0,White,Sacramento,Sacramento,California,1983-11-25 02:15:00
+Hipolito,Paxtor-gomez,Male,25.0,Non-White Hispanic/Latino,San Fernando,Los Angeles,California,2005-12-01 00:00:00
+Patrick,Sturbaum,Female,38.0,White,Vacaville,Solano,California,1960-08-02 00:00:00
+Marion,Hawkins,Female,21.0,Black/African American,Los Angeles,Los Angeles,California,1975-10-07 00:00:00
+Karissa,Schell,Female,19.0,White,Turlock,Stanislaus,California,2011-04-21 00:00:00
+Theresa,Martinez,Female,6.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-11-01 00:00:00
+Donna,Jou,Female,26.0,White,Ranchosantamargarita,,California,2007-06-23 00:00:00
+Jose,Sanchez,Male,18.0,Non-White Hispanic/Latino,El Monte,Los Angeles,California,2010-07-16 00:00:00
+Jeraline,Anderson,Female,54.0,White,Rancho Cordova,Sacramento,California,1983-07-24 21:00:00
+Rene,Perez,Male,26.0,Non-White Hispanic/Latino,Chatsworth,Los Angeles,California,1994-09-20 00:00:00
+Elsa,Wind,Female,13.0,White,North San Juan,Nevada,California,1992-09-26 00:00:00
+Margarita,Munguia,Female,16.0,Non-White Hispanic/Latino,San Bernardino,San Bernardino,California,2013-06-27 00:00:00
+Kristen,Cunningham,Female,65.0,White,Santa Rosa,Sonoma,California,2013-01-23 00:00:00
+Michael,Askren,Male,49.0,White,Rosemead,Los Angeles,California,1981-08-06 00:00:00
+Rochelle,White,Female,19.0,White,San Juan Capistrano,Orange,California,1973-07-30 14:59:00
+Renel,Janvier,Male,41.0,Black/African American,Poway,San Diego,California,2005-08-20 00:00:00
+Gregory,Hinz,Male,22.0,White,Altadena,Los Angeles,California,1976-11-15 21:00:00
+Sean,Sidi,Male,19.0,Other,San Francisco,San Francisco,California,2013-05-21 00:00:00
+Mark,Johnson,Male,25.0,White,San Diego,San Diego,California,1997-03-01 02:00:00
+John,|Geppert, Iii|,Male,33.0,White,Los Angeles,Los Angeles,California,1988-12-10 00:00:00
+Yolanda,Patlan,Female,38.0,White Hispanic/Latino,Calexico,Imperial,California,2001-01-11 00:00:00
+Angelina,Evans,Female,26.0,White,Sacramento,Sacramento,California,2001-05-21 00:30:00
+Lonnie,Fagg,Male,47.0,White,Los Angeles,Los Angeles,California,2005-02-09 02:45:00
+Ashley,Dodges,Female,23.0,White,Bishop,Inyo,California,2007-09-13 00:00:00
+Louis,Kelem,Male,66.0,White,Los Angeles,Los Angeles,California,1988-12-16 00:00:00
+Robert,Spellman,Male,27.0,White,Sherman Oaks,Los Angeles,California,2005-04-13 00:00:00
+Stephen,Bailey,Male,24.0,White,Balboa,Los Angeles,California,1984-10-22 14:30:00
+Lisa,Zaharias,Male,27.0,White,Santa Ana,Orange,California,1987-11-20 00:00:00
+Nickolas,Pogoneys,Male,54.0,White,Apple Valley,San Bernardino,California,1993-12-01 00:00:00
+Octavio,Farias,Male,15.0,Non-White Hispanic/Latino,Torrance,Los Angeles,California,2003-06-15 00:00:00
+Anthony,Barela,Male,40.0,White Hispanic/Latino,Chino,San Bernardino,California,2001-01-11 01:00:00
+John,Rafferty,Male,31.0,White,Los Angeles,Los Angeles,California,1979-05-01 00:00:00
+Jaime,Flowers,Male,44.0,White,Chino,San Bernardino,California,2004-10-19 14:30:00
+Francisco,Munoz Romero,Male,52.0,Non-White Hispanic/Latino,Santa Ana,Orange,California,2009-01-25 00:00:00
+Karen,Lopez-garcia,Female,17.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2011-04-20 00:00:00
+Diana,Munyon,Female,48.0,White,Fontana,San Bernardino,California,1982-05-01 00:00:00
+Gregory,Orr,Male,43.0,White,San Rafael,Marin,California,1993-02-24 10:30:00
+Chad,Veldhaus,Male,42.0,White,Fairfield,Solano,California,2013-05-15 00:00:00
+Brian,Jones,Male,20.0,White,San Mateo,San Mateo,California,1985-01-07 00:00:00
+Albert,Lee,Male,19.0,Asian or Pacific Islander,El Dorado Hills,El Dorado,California,2010-11-26 17:45:00
+Sotirios,Kaviris,Male,31.0,White,|Revelstoke, British Columbia, Canada|,Los Angeles,California,2008-10-18 00:00:00
+Rochell,Moran,Female,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-03-30 00:00:00
+Angelique,James,Female,21.0,Black/African American,Los Angeles,Los Angeles,California,1997-02-15 00:00:00
+Paul,Cerniglia,Male,22.0,White,Redondo Beach,Los Angeles,California,1994-10-07 23:00:00
+Jesse,Aguilera,Female,12.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-05-02 00:00:00
+Janel,Peters,Female,20.0,White,Valinda,Los Angeles,California,1981-01-29 23:30:00
+Pamela,Pedro,Female,48.0,White Hispanic/Latino,Atwater,Merced,California,1982-09-13 00:00:00
+Erinn,Rogers,Female,22.0,Non-White Hispanic/Latino,Modesto,Stanislaus,California,2007-01-08 00:00:00
+Georgiana,Breckenridge,Female,45.0,White,San Diego,San Diego,California,1991-08-02 00:00:00
+Jose,Chavez,Male,43.0,White Hispanic/Latino,San Diego,San Diego,California,1987-12-30 00:00:00
+Jorjanna,Murray,Female,63.0,White,Paso Robles,San Luis Obispo,California,1989-03-08 00:00:00
+Megan,Dipiazza,Female,33.0,White,Sunland,Los Angeles,California,2012-11-11 00:00:00
+Jesse,Work,Male,20.0,White,Hemet,Riverside,California,1959-02-06 11:39:00
+Justin,Lenoir,Male,24.0,Black/African American,San Diego,San Diego,California,2013-07-02 00:00:00
+Madeline,Babcock,Female,35.0,White,Venice Ca,Los Angeles,California,1968-06-30 11:28:00
+Heidi,Barragan,Female,13.0,Non-White Hispanic/Latino,Inglewood,Los Angeles,California,2007-03-24 00:00:00
+Ayellah,Marshall,Female,17.0,Black/African American,Hawthorne,Los Angeles,California,2005-02-01 00:00:00
+Freddy,Ramirez,Male,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-08-29 00:00:00
+Ramona,Beal,Female,15.0,White,San Bernardino,San Bernardino,California,1985-05-19 00:00:00
+Cynthia,Coleman,Female,23.0,White,Barona,San Diego,California,1986-09-03 00:00:00
+Kenneth,Haley,Male,21.0,White,Torrance,Los Angeles,California,2001-04-10 09:06:00
+Lindsay,Wells,Female,22.0,White,Simi Valley,Ventura,California,1999-03-29 00:00:00
+Alexander,Ivanov,Male,33.0,White,Sacramento,Sacramento,California,1997-05-13 00:00:00
+Richard,Hardie,Male,74.0,White,Foresthill,Placer,California,1992-03-27 07:45:00
+Eric,Gammelgard,Male,22.0,White,Auburn,Placer,California,1992-10-10 09:53:00
+Elmer,Booth,Male,82.0,White,Colfax,Placer,California,1993-04-05 11:08:00
+Carlos,Urruela,Male,26.0,White,San Francisco,San Francisco,California,1987-07-16 13:57:00
+Jose,Padilla,Male,9.0,Non-White Hispanic/Latino,Sacramento,Sacramento,California,2008-08-15 00:00:00
+Miguel,Benitez Charry,Male,13.0,Non-White Hispanic/Latino,Canoga Park,Los Angeles,California,2012-08-19 00:00:00
+Radivoje,Matic,Male,81.0,White,San Diego,San Diego,California,1990-10-31 14:00:00
+Tynescha,Chilton,Female,26.0,Black/African American,San Francisco,San Francisco,California,2002-11-01 00:00:00
+Dawn,Viens,Female,39.0,White,Lomita,Los Angeles,California,2009-10-19 17:00:00
+Joan,Scaggs,Female,53.0,White,Santa Cruz,Alameda,California,1983-09-12 00:00:00
+Manuel,Reyes,Male,13.0,Non-White Hispanic/Latino,Lancaster,Los Angeles,California,2013-10-05 00:00:00
+Pedro,Martinez,Male,24.0,Non-White Hispanic/Latino,Porterville,,California,2008-03-31 00:00:00
+Joanne,Illerich,Female,38.0,White,Knights Landing,Sutter,California,1999-05-07 00:00:00
+Ricky,Goldstein,Male,28.0,White,Sacramento,Sacramento,California,1996-05-05 00:00:00
+Terry,Morris,Male,21.0,White,Grass Valley,Nevada,California,1982-08-01 00:00:00
+Lea,Garmendez,Female,14.0,Non-White Hispanic/Latino,Van Nuys,Los Angeles,California,2010-02-22 00:00:00
+Graydon,Burnam,Male,59.0,White,Oroville,Butte,California,1987-06-20 00:00:00
+John,Smith Jr,Male,38.0,White,Santa Cruz,Santa Cruz,California,1996-04-26 00:00:00
+Bobby,Allen,Male,23.0,Other,Adelanto,San Bernardino,California,1986-08-15 00:00:00
+Samuel,Miller,Male,44.0,White,San Diego,San Diego,California,2008-12-08 15:01:00
+Larry,Schafer,Male,34.0,White,Mount Baldy,Los Angeles,California,1982-03-14 00:00:00
+Zakaria,Brahma,Male,8.0,White,North Hollywood,Los Angeles,California,2011-01-17 00:00:00
+Philip,Zarba,Male,47.0,White,San Rafael,Marin,California,1985-09-30 00:00:00
+David,Dahle,Male,32.0,White,Hesperia,San Bernardino,California,1991-10-01 00:00:00
+Deborah,Owens,Female,24.0,White,Butte County,Butte,California,1978-11-19 00:00:00
+Salvador,Jauregui-catalan,Male,30.0,White Hispanic/Latino,Cohasset,Butte,California,2003-07-28 17:00:00
+Esther,Bueno,Female,17.0,Non-White Hispanic/Latino,Santa Maria,Santa Barbara,California,2013-07-20 00:00:00
+Juan,Aguilar,Male,51.0,Non-White Hispanic/Latino,Desert Hot Springs,Los Angeles,California,2013-06-27 06:00:00
+Dennis,Cyncor-mcmillan,Male,17.0,White,Davenport Beach,Santa Cruz,California,2009-03-09 00:00:00
+Mary,Stuart,Female,32.0,White,Honeydew,Humboldt,California,1977-12-10 00:00:00
+Maricella,Cortez,Female,15.0,Non-White Hispanic/Latino,Stanton,Orange,California,1994-07-20 19:02:00
+William,Buntain,Male,49.0,White,Ramona,San Diego,California,2010-03-22 16:44:00
+Denise,Fagot,Female,22.0,White,Lancaster,Los Angeles,California,1989-03-02 00:00:00
+Robert,Mckinney,Male,65.0,White,Clio,Plumas,California,1996-04-11 00:00:00
+Maximino,Casteneda,Male,31.0,Non-White Hispanic/Latino,San Ysidro,San Diego,California,1999-08-04 00:00:00
+Judith,Griffiths,Female,73.0,White,Escondido,San Diego,California,2013-10-01 00:00:00
+Jack,Waller,Male,53.0,White,El Cajon,San Diego,California,2007-09-27 00:00:00
+Derrick,Jones,Male,24.0,Black/African American,San Rafael,Marin,California,2012-12-06 00:00:00
+Brian,Gordon,Male,28.0,White,Twenty-nine Palms,San Bernardino,California,1989-10-11 13:48:00
+Gabrielle,Spagnola,Female,16.0,Other,Lodi,San Joaquin,California,2014-02-05 00:00:00
+Darrell,Lie,Male,8.0,Asian or Pacific Islander,Montebello,Los Angeles,California,2011-04-28 00:00:00
+Sandy,Spencer,Female,48.0,White,San Bernardino,San Bernardino,California,1990-07-23 00:00:00
+Mary,Adams,Female,40.0,White,West Hollywood,Los Angeles,California,1986-04-18 00:00:00
+Yashaswi,Kulshreshtha,Female,11.0,Asian or Pacific Islander,Sacramento,Sacramento,California,2007-08-04 00:00:00
+Kevin,Gale,Male,54.0,White,Mailbu,Los Angeles,California,2008-05-27 09:45:00
+Jitsuro,Hiramoto,Male,17.0,Asian or Pacific Islander,Berkeley,Alameda,California,1984-01-03 12:06:00
+Lucille,Stuckert,Female,52.0,White,Santee,San Diego,California,1980-03-01 00:00:00
+Mary Jo,Long,Female,49.0,White,Gardena,Los Angeles,California,1981-12-27 00:00:00
+Michael,Causley,Male,16.0,White,Hawthorne,Los Angeles,California,1979-05-11 12:20:00
+Alexandria,Mendoza,Female,11.0,Non-White Hispanic/Latino,San Fernando,Los Angeles,California,2007-08-23 00:00:00
+John,Brockbank,Male,25.0,White,Avalon,Los Angeles,California,1991-03-23 00:00:00
+Javiier,Covarrubias,Male,36.0,White Hispanic/Latino,Madera,Madera,California,2003-03-01 00:00:00
+Antonia,Araiza,Female,42.0,Non-White Hispanic/Latino,Watsonville,Santa Cruz,California,1983-11-01 00:00:00
+William,Cordes,Male,45.0,White,Auburn,Placer,California,1984-03-23 00:00:00
+Paul,Storm,Male,48.0,White,Mendocino,Mendocino,California,1980-01-13 15:00:00
+Thomas,Lane,Male,47.0,White,Novato,Marin,California,2011-07-01 00:00:00
+Stephen,Eding,Male,58.0,White,Novato,Marin,California,2006-02-26 00:00:00
+Tham,Nguyen,Female,27.0,Asian or Pacific Islander,Novato,Marin,California,1990-01-01 00:00:00
+Lara,Lykiardopoulos,Female,21.0,White,San Francisco,San Francisco,California,1999-11-09 22:00:00
+Alyssa,Castillo,Female,15.0,Non-White Hispanic/Latino,Visalia,Tulare,California,2013-02-15 00:00:00
+Sean,Friel,Male,28.0,White,Solana Beach,San Diego,California,2004-03-20 00:00:00
+Terra,Cook,Female,15.0,White,Santa Rosa,Sonoma,California,2013-09-15 00:00:00
+Christine,Walters,Female,23.0,White,Eureka,Humboldt,California,2008-11-14 00:00:00
+Ylva,Hagner,Female,42.0,White,Belmont,San Mateo,California,1996-10-14 21:30:00
+Denis,Galvez-hernandez,Male,17.0,Non-White Hispanic/Latino,Chino Hills,San Bernardino,California,2010-12-17 00:00:00
+Elisha,Eittreim,Female,21.0,White,Napa,Napa,California,1994-02-27 20:30:00
+Kaitlin,Whiteaker,Female,17.0,White,Van Nuys,Los Angeles,California,2014-03-07 00:00:00
+Michael,Vasquez,Male,19.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2008-07-02 20:00:00
+James,Nigra,Male,58.0,White,Aguora,Los Angeles,California,2001-06-10 16:00:00
+Phillip,Montoya,Male,14.0,White Hispanic/Latino,Fremont,Alameda,California,1974-03-29 12:11:00
+Theodore,Cabugos Ii,Male,44.0,Asian or Pacific Islander,Santa Barbara,Santa Barbara,California,2005-10-25 00:00:00
+Gesus,Torres,Female,16.0,Non-White Hispanic/Latino,Fontana,San Bernardino,California,2005-01-28 00:00:00
+Alexandra,Flores,Female,15.0,Non-White Hispanic/Latino,Van Nuys,Los Angeles,California,2014-03-15 00:00:00
+Michelle,Duncan,Female,18.0,White,Modesto,Stanislaus,California,1984-11-04 00:00:00
+Felicia,Hurtado,Female,15.0,Non-White Hispanic/Latino,National City,San Diego,California,2013-10-08 00:00:00
+Peter,Bonick,Male,17.0,White,San Mateo,San Mateo,California,1970-02-22 00:00:00
+Ismael,Perez-gomez,Male,44.0,White Hispanic/Latino,|Sinaloa, Mx|,Imperial,California,2012-03-27 11:05:00
+Aloys,Krost,Male,62.0,White,Lake Arrowhead,San Bernardino,California,2013-10-01 14:30:00
+Tracy,Davenport,Female,47.0,Black/African American,San Rafael,Marin,California,1973-04-27 00:00:00
+Juilo,Sagredo,Male,33.0,Non-White Hispanic/Latino,Oceanside,San Diego,California,2004-06-11 00:00:00
+Kimberlie,Kantonen,Female,19.0,White,Hornbrook,Siskiyou,California,1989-03-08 13:38:00
+Ilene,Scott,Female,39.0,White,Carson,Los Angeles,California,1980-12-20 00:00:00
+Dena,Russell,Female,20.0,White,Chico,Butte,California,1976-03-15 14:30:00
+Jayden,Gonzalez,Male,4.0,Non-White Hispanic/Latino,Van Nuys,Los Angeles,California,2011-03-25 00:00:00
+Michelle,Valadez,Female,38.0,White,Palm Springs,,California,1994-05-30 00:00:00
+Robert,Dowd,Male,32.0,White,La Mirada,Los Angeles,California,2007-01-07 11:30:00
+Cynthia,Robison,Female,38.0,White,Stockton,San Joaquin,California,2007-10-11 16:49:00
+Wendy,Agapito,Female,18.0,Non-White Hispanic/Latino,Van Nuys,Los Angeles,California,2010-05-07 00:00:00
+Celeste,Acosta,Female,14.0,Non-White Hispanic/Latino,La Verne,Los Angeles,California,2014-03-17 00:00:00
+Tony,Cruz,Male,83.0,White Hispanic/Latino,San Diego,San Diego,California,2003-05-28 00:00:00
+Craig,Langford,Male,34.0,White,Rockport,Mendocino,California,1981-01-17 00:00:00
+Christine,Langford,Female,24.0,White,Rockport,Mendocino,California,1981-01-17 00:00:00
+Vernon,Erno,Male,82.0,White,San Luis Obispo,San Luis Obispo,California,2003-12-28 13:40:00
+Glenda,Eldred,Female,57.0,White,Stockton,San Joaquin,California,2002-02-26 00:00:00
+Prince,Edwards,Male,87.0,Black/African American,Riverside,Riverside,California,2003-10-25 21:00:00
+Burt,Dollar,Male,20.0,White,Long Beach,Los Angeles,California,1995-07-09 00:00:00
+Terrence,Diaz,Male,45.0,White,Palo Alto,Santa Clara,California,1999-11-14 00:00:00
+Wesley,Lovell,Male,26.0,White,Imperial Beach,San Diego,California,2000-05-12 00:00:00
+Leopoldo,Reyes,Male,23.0,White Hispanic/Latino,Santa Maria,Santa Barbara,California,1996-12-01 18:45:00
+Michael,Wake,Male,27.0,White,Bonita,San Diego,California,1994-07-28 00:00:00
+Javier,Reynoso,Male,58.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2007-05-16 11:00:00
+Andrew,Mantheiy,Male,17.0,White,Redding,Shasta,California,1977-05-19 09:10:00
+William,Calvin,Male,38.0,White,Rocklin,Placer,California,1988-08-01 00:00:00
+Cengiz,Nuray,Male,36.0,White,Santa Cruz,Santa Barbara,California,1995-04-27 00:00:00
+Michael,Masaoay,Male,41.0,Asian or Pacific Islander,San Francisco,San Francisco,California,1989-01-25 00:00:00
+Allen,Bigham,Male,42.0,White,San Diego,San Diego,California,2002-03-25 11:30:00
+Tomas,Santo,Male,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-05-08 00:00:00
+Carlos,Herriford,Male,20.0,Black/African American,Cambria,San Luis Obispo,California,1995-01-01 00:00:00
+Carol,Riley,Female,42.0,White,San Diego,San Diego,California,1986-04-05 12:00:00
+Dimas,Estrada,Male,33.0,White Hispanic/Latino,Chino,San Bernardino,California,1996-08-01 00:00:00
+Miriam,Pena,Female,37.0,White Hispanic/Latino,Chino,San Bernardino,California,2003-11-19 12:00:00
+Gina,Ellison,Female,22.0,Black/African American,San Jose,Santa Clara,California,1990-06-19 20:00:00
+Allister,Mackenzie,Male,35.0,White,Mill Valley,Marin,California,1977-10-03 00:00:00
+Victor,Gray,Male,42.0,White,Los Angeles,Los Angeles,California,1986-04-01 00:00:00
+Dennis,Woods,Male,40.0,White,Long Beach,Los Angeles,California,1988-01-01 00:00:00
+Maurice,James Ii,Male,29.0,Black/African American,San Francisco,San Francisco,California,2011-07-31 19:00:00
+Gary,Kuns,Male,40.0,White,Chino,San Bernardino,California,2002-07-02 13:00:00
+Donald,Merrills,Male,29.0,White,Norwalk,Los Angeles,California,1994-10-01 00:00:00
+Jose,Diaz,Male,49.0,White Hispanic/Latino,Fresno,Fresno,California,2008-01-03 11:48:00
+Ilias,Badys,Male,7.0,White,Sacramento,Sacramento,California,2009-09-26 00:00:00
+Hannah,Zaccaglini,Female,32.0,White,Mccloud,Siskiyou,California,1997-06-04 00:00:00
+Daniel,Naylor,Male,45.0,White,Fremont,Alameda,California,1982-10-05 00:00:00
+Jacqueline,Reyes,Female,17.0,Non-White Hispanic/Latino,Santa Rosa,Sonoma,California,2014-02-28 00:00:00
+Kristin,Smart,Female,37.0,White,San Luis Obispo,,California,1996-05-25 00:00:00
+Russell,Wilson,Male,61.0,White,San Diego,San Diego,California,2006-01-13 00:00:00
+Tiffany,Wise,Female,39.0,White,San Bernardino,San Bernardino,California,1977-03-30 00:00:00
+Jennifer,Fowler,Female,29.0,White,Walnut Creek,Contra Costa,California,2008-11-20 00:00:00
+Alyssa,Solis,Female,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-09-13 00:00:00
+Gloria,Olsen,Female,48.0,White,Oroville,Butte,California,1996-02-01 00:00:00
+Keisuke,Collins,Male,11.0,Other,Santa Ana,Orange,California,2008-06-16 00:00:00
+Sherwin,Rubin,Male,59.0,White,Los Angeles,Los Angeles,California,1996-07-31 00:00:00
+Refugia,Acosta,Female,30.0,Unknown,Riverside,Riverside,California,1999-10-01 00:00:00
+Hassani,Campbell,Male,10.0,Black/African American,Oakland,Alameda,California,2009-08-10 00:00:00
+Arianna,Watson,Female,9.0,Other,Ontario,San Bernardino,California,2013-11-22 00:00:00
+Jesus,Zapata,Male,70.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2007-05-31 09:30:00
+Darren,Smith,Male,39.0,White,San Diego,San Diego,California,2003-01-20 15:00:00
+Kevin,Anderson,Male,12.0,Other,North Hollywood,Los Angeles,California,2004-03-31 00:00:00
+David,Boone,Male,56.0,White,Lake Forest,Orange,California,2006-12-05 17:51:00
+Arnel,Narvaiz,Male,36.0,Asian or Pacific Islander,Stockton,San Joaquin,California,1994-07-01 05:00:00
+Ezra,Lui,Male,16.0,Asian or Pacific Islander,Irvine,Orange,California,1999-11-13 00:00:00
+Angelo,Gatti,Male,21.0,White,Newport Beach,Orange,California,1974-07-13 19:00:00
+Deborah,Dubs,Female,33.0,White,San Francisco,San Francisco,California,1984-07-25 00:00:00
+Michaela,Garecht,Female,35.0,White,Hayward,Alameda,California,1988-11-19 00:00:00
+Corinne,Groenenberg,Female,16.0,White,Modesto,Stanislaus,California,1973-11-01 12:29:00
+Jorge,Garcia,Male,55.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1999-06-02 13:40:00
+Jennifer,Rosales,Female,11.0,Non-White Hispanic/Latino,Menlo Park,San Mateo,California,2007-04-28 00:00:00
+Adrianne,Gilliam,Female,19.0,White,San Jose,Santa Clara,California,1979-06-22 07:00:00
+Alfred,Grimes,Male,14.0,White,Monterey,Monterey,California,1968-12-14 11:32:00
+Mitchel,Salomon,Male,9.0,White,Los Angeles,Los Angeles,California,1982-10-12 00:00:00
+Nileshkumar,Panchal,Male,43.0,Other,Pittsburg,Contra Costa,California,2011-06-06 21:15:00
+Robert,Tennison,Male,37.0,White,Alderpoint,Humboldt,California,2009-01-20 12:00:00
+Laura,Cerda,Female,35.0,Non-White Hispanic/Latino,San Rafael,Marin,California,2010-01-01 16:00:00
+Austin,Smith,Male,23.0,White,El Monte,Los Angeles,California,1993-03-23 00:00:00
+Ekaterina,Shcherbakova,Female,29.0,White,Monterey,Monterey,California,1998-04-05 00:00:00
+Veronica,Baltazar,Female,16.0,Non-White Hispanic/Latino,South Gate,Los Angeles,California,2013-07-21 00:00:00
+Eileen,Hynson,Female,19.0,White,Napa,Napa,California,1976-06-01 00:00:00
+Veronica,Martinez,Female,27.0,Non-White Hispanic/Latino,Tracy,San Joaquin,California,2001-03-29 00:00:00
+Leslie,Martin-porter,Female,23.0,White,West Covina,Los Angeles,California,1984-01-19 07:00:00
+Antonia,Garcia,Female,55.0,Non-White Hispanic/Latino,San Diego,San Diego,California,1999-06-02 13:40:00
+Marie,Lopez,Female,54.0,White,Downey,Los Angeles,California,1989-01-06 00:00:00
+Timmy,Thompson,Male,36.0,White,Phelan,San Bernardino,California,2002-08-03 00:00:00
+Tami,Seymour,Female,37.0,White,Sacramento,Sacramento,California,1995-10-12 20:30:00
+Norman,Pappas,Male,19.0,White,Carmel,Monterey,California,1993-07-26 00:00:00
+Laurence,Brannum,Male,14.0,Black/African American,Santa Maria,Santa Barbara,California,2009-04-15 00:00:00
+George,Carpenter,Male,74.0,White,San Luis Obispo,San Luis Obispo,California,2009-12-23 00:00:00
+Tineshia,Jackson,Female,32.0,Black/African American,West Covina,Los Angeles,California,1998-03-02 00:00:00
+Deborah,Johnson,Female,40.0,White,San Leandro,Alameda,California,1992-07-04 05:00:00
+Duy,Phan,Male,39.0,Asian or Pacific Islander,Pescadero,San Mateo,California,1992-04-17 00:00:00
+Mona,Lincoln,Female,20.0,White,Inglewood,Los Angeles,California,1987-06-21 00:00:00
+Archie,Mckinnon,Male,39.0,White,Chico,Butte,California,1988-07-11 00:00:00
+Vidal,Acevedo,Male,76.0,White Hispanic/Latino,Modesto,Stanislaus,California,2011-05-16 00:00:00
+Kimberly,Kahler,Female,50.0,White,Marina Del Rey,Los Angeles,California,1980-01-17 00:00:00
+Dwight,Stallings,Male,3.0,Black/African American,Elk Grove,Sacramento,California,2011-04-01 00:00:00
+Cynthia,Milstead,Female,20.0,White,San Francisco,San Francisco,California,2001-01-18 02:00:00
+Sylvia,Lee,Female,36.0,White,Campbell,Santa Clara,California,1995-10-31 00:00:00
+Si Young,Yoon,Male,34.0,Asian or Pacific Islander,Lancaster,Los Angeles,California,2008-06-23 09:30:00
+Nefertiti,Washington,Female,17.0,Black/African American,Los Angeles,Los Angeles,California,2013-04-13 00:00:00
+Jeffrey,Peskin,Male,28.0,White,Chino,San Bernardino,California,2005-11-24 18:00:00
+Lourdes,Villanueva,Female,8.0,Non-White Hispanic/Latino,San Bernardino,San Bernardino,California,2006-12-30 00:00:00
+Diona,Peterson,Female,12.0,Other,Santa Ana,Orange,California,2005-10-04 00:00:00
+Martin,Daggett,Male,68.0,White,Yucca Valley,San Bernardino,California,1997-02-06 00:00:00
+Cynthia,Gaytan,Female,16.0,Non-White Hispanic/Latino,South El Monte,Los Angeles,California,2014-02-20 00:00:00
+Paul,Fuchs,Male,18.0,White,Long Beach,Los Angeles,California,1976-12-12 12:33:00
+Tracy,Stewart,Female,18.0,White,Carson,Los Angeles,California,1981-08-09 20:30:00
+Stella,Gies,Female,52.0,White,Lakeport,Lake,California,1981-09-18 00:00:00
+Cheryl,Hall,Female,28.0,White,Marina Del Rey,Los Angeles,California,1981-09-06 00:00:00
+Eddie,Partida,Male,35.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,2005-09-08 18:30:00
+Stacy,Sabal,Male,26.0,Asian or Pacific Islander,Los Angeles,Los Angeles,California,1988-08-04 00:00:00
+Brodie,Morrell,Male,16.0,White,San Diego,San Diego,California,2012-09-17 00:00:00
+Desteni,Mendoza,Female,17.0,Non-White Hispanic/Latino,Dinuba,Tulare,California,2013-03-17 00:00:00
+Kimberly,Stewart,Female,21.0,White,Sheridan,Placer,California,1977-05-24 21:15:00
+Lara,Cebeli,Female,9.0,White,Los Altos,Santa Clara,California,2011-07-22 00:00:00
+Yeshua,Awogbade,Male,6.0,Black/African American,Sacramento,Sacramento,California,2012-12-09 00:00:00
+Christopher,Grindey,Male,44.0,White,Palm Desert,Riverside,California,1996-01-02 00:00:00
+Michael,Nangle,Male,37.0,White,San Francisco,Marin,California,1995-09-26 00:00:00
+Marylinda,Cordova,Female,4.0,Non-White Hispanic/Latino,Chino,San Bernardino,California,2003-11-19 12:00:00
+Paget,Barr,Female,29.0,White,Oroville,Butte,California,1986-07-26 00:00:00
+Amanda,Gaskin,Female,15.0,Black/African American,Los Angeles,Los Angeles,California,2013-01-11 00:00:00
+Joyce,Walcott,Female,19.0,White,Reseda,Los Angeles,California,1986-05-29 12:56:00
+Elias,Monroy,Male,0.0,White,Los Angeles,Los Angeles,California,1987-02-02 00:00:00
+Ana,Rochin,Female,21.0,Non-White Hispanic/Latino,Lompoc,Santa Barbara,California,2009-10-23 00:00:00
+Jesus,Flores,Male,21.0,White Hispanic/Latino,Chino,San Bernardino,California,1993-01-01 04:00:00
+Cloudia,Wells,Female,45.0,White,San Diego,San Diego,California,1998-04-10 00:00:00
+Frank,Bouzout,Male,72.0,White,Santa Cruz,Santa Cruz,California,1987-12-15 00:00:00
+Nasim,Howard,Male,7.0,Other,San Jose,Santa Clara,California,2008-11-28 00:00:00
+Rafaela,Hays,Female,49.0,White Hispanic/Latino,San Diego,San Diego,California,1995-04-01 00:00:00
+Paul,Noel,Male,35.0,White,San Diego,San Diego,California,1987-03-16 00:00:00
+Dugan,Schwartz,Male,15.0,White,San Dimas,Los Angeles,California,2014-03-05 00:00:00
+Louie,Bruinsma,Male,32.0,White,Artesia,Los Angeles,California,1978-10-08 20:30:00
+Mary,Rawlinson,Female,22.0,White,San Diego,San Diego,California,1985-10-10 00:00:00
+David,Provost,Male,20.0,White,San Diego,San Diego,California,2002-08-23 10:35:00
+Amber,Weaver,Female,32.0,White,Coarsegold,Madera,California,2009-12-09 12:00:00
+Darrin,Bunker,Male,42.0,White,Dana Point,Orange,California,2007-10-03 00:00:00
+Troy,Nelms,Male,71.0,White,Mission Viejo,Orange,California,2006-06-05 00:00:00
+Dat,Tran,Male,37.0,Asian or Pacific Islander,San Diego,San Diego,California,1997-03-29 00:00:00
+Nathalie,Jauregui,Female,17.0,Non-White Hispanic/Latino,Covina,Los Angeles,California,2013-02-13 00:00:00
+Margaret,Walden,Female,40.0,White,San Diego,San Diego,California,1982-07-01 00:00:00
+Robin,Reed,Male,15.0,White,Petaluma,Sonoma,California,1995-01-24 18:42:00
+Gayle,Marks,Female,44.0,White,Stockton,San Joaquin,California,1988-10-18 00:00:00
+Marta,Michel,Female,49.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2013-01-19 00:00:00
+Mitchell,Owens,Male,35.0,Black/African American,Menlo Park,San Mateo,California,1983-02-03 00:00:00
+Jose,Fuentes Pereira,Male,27.0,Non-White Hispanic/Latino,San Diego,Fulton,California,1993-12-07 00:00:00
+Usbaldo,Hernandez,Male,43.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1969-07-01 00:00:00
+Mark,Wilson,Male,59.0,White,Quincy,Plumas,California,1967-11-04 00:00:00
+Jonathan,Ogawa,Male,26.0,Asian or Pacific Islander,San Francisco,San Francisco,California,2008-02-14 00:00:00
+Anthony,Fox,Male,53.0,White,Ventura,Ventura,California,2001-12-19 00:00:00
+Ryan,Dellinger,Male,28.0,White,Vacaville,Solano,California,2010-04-14 13:00:00
+Sargon,Rose,Male,8.0,Other,Vista,San Diego,California,2012-07-15 00:00:00
+Jose,Gonzalez,Male,43.0,White Hispanic/Latino,Montebello,Los Angeles,California,1989-12-09 00:00:00
+Lina,Borges,Female,25.0,White,Santa Cruz,Santa Cruz,California,1984-03-21 00:00:00
+Diane,Dye,Female,48.0,White,San Jose,Santa Clara,California,1979-07-30 00:00:00
+Donald,Tobin,Male,52.0,White,Riverside,Riverside,California,2010-07-07 14:06:00
+Teddy,Morris,Male,26.0,White,Barstow,San Bernardino,California,1991-07-26 00:00:00
+Brian,Hirsch,Male,35.0,White,Santa Cruz,Santa Cruz,California,2000-08-01 00:00:00
+John,Inman,Male,38.0,White,Running Springs,San Bernardino,California,1993-01-16 00:00:00
+Carlos,Melgarejo Nabli,Male,4.0,White,San Diego,San Diego,California,2011-06-23 00:00:00
+Erik,Lamberg,Male,51.0,White,Laytonville,Mendocino,California,2013-05-26 00:00:00
+Jeanette,Espeleta,Female,20.0,White Hispanic/Latino,Fullerton,Orange,California,1998-07-17 14:00:00
+Matthew,Whitmer,Male,20.0,White,Hercules,Contra Costa,California,2007-11-15 00:00:00
+Isabel,Duenas,Female,15.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2014-03-06 00:00:00
+Imani,Tucker,Female,16.0,Black/African American,Los Angeles,Los Angeles,California,2014-02-18 00:00:00
+Allison,Bayliss,Female,15.0,White,Danville,Contra Costa,California,2011-05-23 00:00:00
+Alicia,Vasquez,Female,17.0,Non-White Hispanic/Latino,Sylmar,Los Angeles,California,2013-06-10 00:00:00
+Carrie,Heath,Female,20.0,Black/African American,Oakland,Alameda,California,2009-04-01 00:00:00
+Juanita,Nelson,Female,32.0,White,Boulder Creek,Santa Cruz,California,1998-12-15 00:00:00
+Ann-marie,Lawrence,Female,29.0,White,San Francisco,San Francisco,California,2003-11-22 00:00:00
+Diego,Garcia,Male,28.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1982-03-15 14:17:00
+Nicholas,Buttle,Male,45.0,White,Malibu,Los Angeles,California,2001-12-07 16:30:00
+Gabriela,Gonzalez,Female,26.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2002-04-05 00:00:00
+Kaylee,Santiago,Female,15.0,Non-White Hispanic/Latino,Panorama City,Los Angeles,California,2014-02-24 00:00:00
+Victor,Balbuena,Male,20.0,Non-White Hispanic/Latino,Artesia,Los Angeles,California,2009-10-18 22:00:00
+Lisa,Dickinson,Female,9.0,White,Walnut Creek,Contra Costa,California,1976-09-05 11:14:00
+Antreas,Cantrell,Male,9.0,White,Shasta Lake,Shasta,California,1988-01-16 10:50:00
+Debra,Nestle,Female,33.0,White,Pomona,Los Angeles,California,1996-07-03 00:00:00
+Donna,Fowler,Female,7.0,White,Trinity,Trinity,California,1980-11-10 11:18:00
+Anthony,Horner,Male,43.0,White,Santa Rosa,Sonoma,California,1989-02-04 00:00:00
+Doris,Scandalis,Female,30.0,White,Carmichael,Sacramento,California,1960-11-07 17:00:00
+Johnny,Doyle,Male,34.0,White,Los Angeles,Los Angeles,California,1996-07-19 00:00:00
+Augustine,Moreno,Male,35.0,Non-White Hispanic/Latino,Stockton,San Joaquin,California,2000-05-20 12:16:00
+Tessah,Collier,Female,15.0,White,Los Angeles,Los Angeles,California,2014-03-27 00:00:00
+Kyle,Rae,Male,19.0,White,Marysville,Yuba,California,1997-06-22 00:00:00
+Ronald,Cole,Male,19.0,White,Fillmore,Ventura,California,1965-05-01 12:33:00
+David,Duenas,Male,27.0,White,Garden Grove,Orange,California,1984-06-20 00:00:00
+Tranisa,Gauff,Female,23.0,Black/African American,Los Angeles,Los Angeles,California,2011-05-15 00:00:00
+Edgar,Scow,Male,45.0,White,Adelanto,San Bernardino,California,2009-06-01 15:12:00
+Donald,Hillburn,Male,64.0,White,Novato,Marin,California,2012-07-03 00:00:00
+Lewis,Welch,Male,44.0,White,Nevada City,Nevada,California,1971-05-23 00:00:00
+Jordon,Torres,Female,9.0,Non-White Hispanic/Latino,Reseda,Los Angeles,California,2007-07-09 00:00:00
+Robert,Bishop,Male,58.0,White,Morongo Valley,San Bernardino,California,2000-06-01 15:24:00
+Katherine,Truitt,Female,33.0,White,Alameda,Alameda,California,2010-01-07 13:38:00
+Linne,Dominelli,Female,33.0,White,Long Beach,Los Angeles,California,1984-01-22 00:00:00
+John,Kopeczy,Male,60.0,White,Paramount,Los Angeles,California,1983-09-27 00:00:00
+Souad,Bensmail,Female,35.0,Black/African American,Fairbanks,San Diego,California,2005-08-07 00:00:00
+Luis,Escobedo,Male,30.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,1986-06-26 00:00:00
+Russell,Scotton Jr.,Male,44.0,White,San Diego,San Diego,California,1995-02-06 00:00:00
+Cameron,Remmer,Male,29.0,White,San Francisco,San Francisco,California,2011-10-06 23:27:00
+James,Sellars,Male,59.0,White,Carlsbad,San Diego,California,2005-11-29 00:00:00
+Betty,Whitaker,Female,64.0,White,Novato,Marin,California,1981-03-04 00:00:00
+Amanda,Rivera,Female,37.0,White Hispanic/Latino,La Mesa,San Diego,California,1990-10-05 00:00:00
+Bill,Neyenesch,Male,38.0,White,San Diego,San Diego,California,1983-06-02 00:00:00
+Roger,Sheltrown,Male,28.0,White,Angels Camp,Calaveras,California,1995-10-31 00:00:00
+Bonfilio,Juarez,Male,28.0,Non-White Hispanic/Latino,Merced,Merced,California,2011-06-20 05:00:00
+Gary,Brainard,Male,54.0,White,San Diego,San Diego,California,1999-12-04 16:30:00
+Sandra,Steppuhn - Mcgee,Female,25.0,Black/African American,Seaside,Monterey,California,1982-12-09 21:30:00
+Maximillian,Amador,Male,18.0,White,Los Angeles,Los Angeles,California,2011-05-11 02:00:00
+Patrick,Ross,Male,22.0,White,San Dimas,Los Angeles,California,1984-03-03 00:00:00
+Patrick,Strutton,Male,35.0,White,Antioch,Contra Costa,California,1982-09-01 00:00:00
+Deanna,Saccone,Female,18.0,White,Marina Del Rey,Los Angeles,California,1985-11-13 00:00:00
+Miriam,Cavallo,Female,19.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1983-11-23 00:00:00
+David,Marko,Male,24.0,White Hispanic/Latino,Burbank,Los Angeles,California,1993-04-17 00:00:00
+Laroya,Bray,Female,26.0,Black/African American,Los Angeles,Los Angeles,California,2003-03-26 00:00:00
+Donald,|Still, Jr|,Male,54.0,White,Guerneville,Sonoma,California,2007-06-01 18:29:00
+Elaina,Rivera,Female,39.0,White,Ramona,San Diego,California,1987-06-26 00:00:00
+Janelle,Smallwood,Female,17.0,White,Altadena,Los Angeles,California,2014-02-16 00:00:00
+Tanner,Sharp,Male,24.0,White,Galt,Sacramento,California,2010-04-25 00:00:00
+Davette,Gaunt,Female,33.0,White,Vista,San Diego,California,1993-01-01 00:00:00
+Walter,Strong,Male,67.0,White,Santa Barbara,Santa Barbara,California,2004-04-26 00:00:00
+Sierra,Lamar,Female,17.0,White,Morgan Hill,Santa Clara,California,2012-03-16 00:00:00
+Shakina,Sensabaugh,Female,6.0,White,Los Angeles,Los Angeles,California,2013-06-04 00:00:00
+Paula,Pope,Female,19.0,White,Fresh Pond,El Dorado,California,1972-09-03 00:00:00
+Joseph,Booth-metwally,Male,24.0,Other,San Francisco,San Francisco,California,2006-12-14 00:00:00
+Timothy,O'kane,Male,34.0,White,North Highlands,Sacramento,California,1991-05-28 12:00:00
+Douglas,Pengilley,Male,18.0,White,El Cajon,San Diego,California,1992-01-01 00:00:00
+Jason,Kyles,Male,34.0,White,Santa Rosa,Sonoma,California,2013-02-02 17:15:00
+Johnson,Padilla,Male,16.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2012-09-05 00:00:00
+Steven,Youngman,Male,36.0,White,Riverside,Riverside,California,1994-07-01 00:00:00
+Gregory,Dugas,Male,42.0,White,Inverness,Marin,California,1992-09-03 00:00:00
+Curtis,Sloan,Male,55.0,White,Santa Rosa,Sonoma,California,2011-01-01 00:00:00
+Christina,Battin,Female,25.0,White,Thousand Palms,Riverside,California,2003-06-08 00:00:00
+Brenda,Howell,Female,12.0,White,San Gabriel Canyon,Los Angeles,California,1956-08-06 11:58:00
+Alexis,Hernandez-repollet,Male,6.0,Non-White Hispanic/Latino,San Francisco,San Francisco,California,2002-05-01 00:00:00
+Kalifornia,Roque,Female,17.0,Native American,San Diego,San Diego,California,2013-12-05 00:00:00
+Amalia,Perez,Female,78.0,White Hispanic/Latino,Los Angeles,Los Angeles,California,1991-01-02 00:00:00
+Nancy,Penner,Female,28.0,White,Paradise,Butte,California,1983-10-31 00:00:00
+Ashley,Lopez,Female,16.0,Non-White Hispanic/Latino,Temecula,Riverside,California,2013-12-20 00:00:00
+Bernice,Arreola,Female,29.0,Non-White Hispanic/Latino,Temecula,Riverside,California,1998-10-26 00:00:00
+Scott,Echols,Male,30.0,White,Muscoy,,California,1992-07-26 00:00:00
+John,Farfan,Male,49.0,Other,Santa Rosa,Sonoma,California,2011-02-22 13:54:00
+Robert,Prough,Male,31.0,White,Lakewood,Los Angeles,California,2004-05-06 18:00:00
+Beverly,Bealer,Female,19.0,Black/African American,Santa Monica,Los Angeles,California,1980-08-20 00:00:00
+Julieanne,Bauer,Female,44.0,White,San Francisco,San Francisco,California,1994-04-25 00:00:00
+Daniel,Yuen,Male,26.0,Asian or Pacific Islander,Running Springs,San Bernardino,California,2004-02-08 00:00:00
+Chisun,Mao,Male,29.0,Asian or Pacific Islander,Sacramento,Sacramento,California,1997-03-01 00:00:00
+Adan,Jacquez Hernandez,Male,21.0,White Hispanic/Latino,Stockton,San Joaquin,California,1997-07-04 12:00:00
+Kevin,Smith,Male,26.0,White,Sherman Oaks,Los Angeles,California,2011-11-08 00:00:00
+Sean,Sidi,Male,20.0,Other,San Francisco,San Francisco,California,2013-05-21 00:00:00
+Donald,Carter,Male,78.0,White,Santa Monica,Los Angeles,California,2010-06-28 00:00:00
+Robert,Rivera,Male,31.0,Non-White Hispanic/Latino,Oxnard,Ventura,California,1977-07-28 00:00:00
+Jeremiah,Peterson,Male,29.0,White,Tujunga,Los Angeles,California,2011-02-15 00:00:00
+Consuella,Cash,Female,47.0,Black/African American,Los Angeles,Los Angeles,California,1975-01-03 00:00:00
+Douglas,Ordones Marroquin,Male,33.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2001-01-01 00:00:00
+Amber,Swartz-garcia,Female,33.0,White,Pinole,Contra Costa,California,1988-06-03 00:00:00
+Marina,Kissinger,Female,38.0,White,San Francisco,San Francisco,California,1995-03-14 00:00:00
+Kimberly,Evans,Female,41.0,White,Encinitas,San Diego,California,2013-04-30 00:00:00
+Agnes,Bross,Female,83.0,White,Daly City,San Mateo,California,2001-04-02 13:47:00
+Michael,Grimm,Male,33.0,White,West Hollywood,Los Angeles,California,2000-11-23 14:16:00
+Andres,Carrillo,Male,17.0,Non-White Hispanic/Latino,San Pedro,Los Angeles,California,2013-01-12 00:00:00
+Luis,Mendoza-amaya,Male,15.0,Non-White Hispanic/Latino,Montclair,San Bernardino,California,2013-12-06 00:00:00
+Rakesh,Gopi,Male,18.0,Other,Pittsburg,Contra Costa,California,1991-12-04 00:00:00
+Victoria,Gonzalez,Female,27.0,White Hispanic/Latino,Tulare,Tulare,California,2003-07-07 00:00:00
+Jason,Erthal,Male,33.0,White,Oroville,Butte,California,2006-10-11 00:00:00
+Robert,Clements,Male,21.0,White,Los Angeles,Los Angeles,California,1980-12-02 00:00:00
+Linda,Grimm,Female,26.0,White,Perris,Riverside,California,1986-03-31 00:00:00
+James,Gray,Male,63.0,White,San Francisco,San Francisco,California,2007-01-28 07:00:00
+David,Widner,Male,38.0,White,Walnut Creek,Contra Costa,California,1983-03-01 00:00:00
+Freddy,Murguia,Male,28.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,1986-07-24 00:00:00
+Scott,Hall,Male,42.0,White,Catalina Island,Los Angeles,California,2006-08-11 00:00:00
+Noppajan,Lo,Female,30.0,Asian or Pacific Islander,Los Alamitos,Orange,California,2004-10-12 00:00:00
+Charles,Wright,Male,26.0,White Hispanic/Latino,South San Francisco,San Mateo,California,1982-01-11 00:00:00
+Irene,Gonzalez,Female,16.0,Non-White Hispanic/Latino,Chula Vista,San Diego,California,2011-07-05 00:00:00
+Francisco,Arias,Female,14.0,Non-White Hispanic/Latino,San Jose,Santa Clara,California,2009-12-01 00:00:00
+Ronald,Gold,Male,35.0,White,Malibu,Los Angeles,California,1977-11-14 15:00:00
+Yenny,Monge,Female,16.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2014-02-25 00:00:00
+Leonid,Jacobson,Male,18.0,White,San Francisco,San Francisco,California,1999-04-07 00:00:00
+Charles,Anderson,Male,33.0,White,Chico,Butte,California,1981-05-22 00:00:00
+Susan,Zaharias,Female,27.0,White,Mission Viejo,Orange,California,1987-11-20 00:00:00
+Dorothy,Bolton,Female,69.0,White,Elk,Mendocino,California,1983-01-01 14:00:00
+Victor,Ramirez,Male,24.0,Unknown,Los Angeles,Los Angeles,California,1999-01-23 00:00:00
+Stephen,Packard,Male,18.0,White,Westport,Mendocino,California,1974-06-10 00:00:00
+Santos,Cabrera,Male,18.0,Black/African American,Los Angeles,Los Angeles,California,2013-03-13 00:00:00
+Martha,Anaya,Female,27.0,Non-White Hispanic/Latino,Santa Ana,Orange,California,2013-11-12 05:00:00
+Thomas,Thurston,Male,19.0,White,Ukiah,Mendocino,California,2005-11-07 00:00:00
+Cecilia,Newball,Female,31.0,Non-White Hispanic/Latino,Chatsworth,Los Angeles,California,1994-09-20 14:20:00
+Brenda,Campos,Female,12.0,Non-White Hispanic/Latino,Anaheim,Orange,California,2010-03-04 00:00:00
+Frances,Groves,Female,42.0,White,Palm Springs,Riverside,California,1955-01-01 00:00:00
+Ava,Solis,Female,2.0,Non-White Hispanic/Latino,Bakersfield,Kern,California,2013-07-14 00:00:00
+Amalia,Marquez,Female,48.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,1998-05-01 00:00:00
+Gregory,Tackett,Male,22.0,White,Laguna Beach,Orange,California,1996-03-01 00:00:00
+Daniel,Robles,Male,18.0,Non-White Hispanic/Latino,La Verne,Los Angeles,California,2013-06-22 00:00:00
+Khymbrly,Scruggs,Female,19.0,White,Sacramento,Sacramento,California,1980-01-12 18:30:00
+Patrick,Mcdermott,Male,48.0,White,San Pedro,Los Angeles,California,2005-07-01 00:00:00
+Frankie,Mcdowell,Male,25.0,Non-White Hispanic/Latino,Fresno,Fresno,California,2005-10-14 00:00:00
+Ronald,Mcnutt,Male,44.0,White,Corning,Tehama,California,2004-05-04 00:00:00
+Debra,Mccoy,Female,31.0,White Hispanic/Latino,San Jacinto,Riverside,California,1991-01-24 00:00:00
+Rene,Ortiz,Male,17.0,Non-White Hispanic/Latino,Visalia,Tulare,California,2012-04-11 00:00:00
+Juan,Guzman,Male,36.0,White Hispanic/Latino,San Francisco,San Francisco,California,1974-01-01 00:00:00
+Robert,|Lapergola, Jr.|,Male,28.0,White,Death Valley,Inyo,California,1987-04-26 00:00:00
+Ingrid,Marin,Female,16.0,White Hispanic/Latino,Fontana,San Bernardino,California,1997-12-28 00:00:00
+Jared,Negrete,Male,12.0,White Hispanic/Latino,Yucaipa,San Bernardino,California,1991-07-19 16:30:00
+Lonny,Mcquiston-davis,Male,41.0,White,Stockton,San Joaquin,California,1995-11-01 00:00:00
+Theresa,Trapp,Female,33.0,White,San Diego,San Diego,California,2006-08-01 13:00:00
+April,Pitzer,Female,30.0,White,Newberry Springs,San Bernardino,California,2004-06-28 00:00:00
+Steven,Clark,Male,21.0,White,Long Beach,Los Angeles,California,1995-07-09 13:41:00
+Aracelia,Friesen,Female,22.0,Non-White Hispanic/Latino,Fresno,Fresno,California,2008-05-13 00:00:00
+Sean,Phelan,Male,21.0,White,Tustin,Orange,California,1981-10-01 00:00:00
+William,Black,Male,57.0,Black/African American,Hesperia,San Bernardino,California,2011-12-21 21:00:00
+John,Nellans,Male,19.0,White,San Diego,San Diego,California,1986-01-16 00:00:00
+Claudia,Mathieu,Female,37.0,White,Dana Point,Orange,California,1997-12-09 00:00:00
+Robert,Huston,Male,17.0,Other,Sacramento,Sacramento,California,2014-02-13 00:00:00
+Steven,Latipow,Male,56.0,White,Phelan,San Bernardino,California,2011-11-06 16:00:00
+Alicia,Versluis,Female,3.0,Black/African American,Pomona,Los Angeles,California,2000-05-07 12:45:00
+Cesar,Bibiano,Male,9.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2011-01-11 00:00:00
+Arlene,Tsuji,Female,25.0,Asian or Pacific Islander,Aptos,Santa Cruz,California,1991-10-24 00:00:00
+Alex,Aguilar-vasquez,Male,29.0,Non-White Hispanic/Latino,San Mateo,San Mateo,California,2008-09-01 00:00:00
+Michael,Aguilera,Female,9.0,Non-White Hispanic/Latino,Los Angeles,,California,2012-05-02 00:00:00
+Donel,Minor,Male,29.0,Black/African American,Inglewood,Los Angeles,California,1984-12-20 00:00:00
+Benjamin,Mclaurin-johnson,Male,1.0,Black/African American,San Francisco,San Francisco,California,1995-01-13 00:00:00
+Linh,Tran,Male,20.0,Asian or Pacific Islander,Santa Cruz,Santa Cruz,California,1993-04-23 00:00:00
+Jeffrey,Coonradt,Male,27.0,White,Fort Ord,Monterey,California,1987-12-20 00:00:00
+Jennifer,Gomez,Female,18.0,White,San Bernardino,San Bernardino,California,2012-03-03 00:00:00
+Karla,Pineda-hernandez,Female,18.0,White,Pacoima,Los Angeles,California,2006-09-14 00:00:00
+Ray,Morrison,Male,18.0,Other,Ventura,Ventura,California,1997-12-02 00:00:00
+Saiun,Lotus,Male,37.0,Other,San Francisco,San Francisco,California,1997-01-02 00:00:00
+Jorgen,Andersen,Male,20.0,White,San Rafael,Marin,California,1980-02-17 00:00:00
+Jesse,Gable,Male,34.0,White,San Jose,Santa Clara,California,2010-08-19 00:00:00
+Toni,Clark,Female,41.0,Black/African American,Oakland,Alameda,California,1990-03-16 00:00:00
+Lucinda,Schaefer,Female,16.0,White,Torrance,Los Angeles,California,1979-06-24 19:46:00
+Sarah,Horn,Female,17.0,White,Lemoore,Kings,California,2013-12-06 00:00:00
+Neal,King,Male,24.0,White,Oroville,Butte,California,2013-03-26 00:00:00
+Carlos,Hernandez,Male,36.0,Non-White Hispanic/Latino,Montebello,Los Angeles,California,2011-10-03 08:00:00
+Diana,Mazariegos,Female,22.0,Non-White Hispanic/Latino,Fontana,San Bernardino,California,2006-06-23 00:00:00
+Rosa,Lisowski,Female,50.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2008-03-24 07:15:00
+Michael,Madden,Male,20.0,White,Sonora,Tuolumne,California,1996-08-10 05:00:00
+Esteban,Hernandez,Male,1.0,Non-White Hispanic/Latino,Bellflower,Los Angeles,California,1996-12-02 00:00:00
+Anthony,Sardella,Male,22.0,White,Concord,Contra Costa,California,2012-12-20 00:00:00
+Darrell,Hill,Male,30.0,Black/African American,Los Angeles,Los Angeles,California,1993-03-06 00:00:00
+Christine,Eastin,Female,19.0,White,Hayward,Alameda,California,1971-01-18 20:30:00
+Ramona,Price,Female,59.0,White,Santa Barbara,Santa Barbara,California,1961-09-02 00:00:00
+Le,Dinh,Male,38.0,Asian or Pacific Islander,San Diego,San Diego,California,1996-02-04 00:00:00
+Abraham,Gutierrez,Male,72.0,White Hispanic/Latino,San Diego,San Diego,California,2008-06-08 11:30:00
+Emily,Melchor,Female,6.0,Non-White Hispanic/Latino,Laguna Hills,Orange,California,2008-12-07 00:00:00
+Nicole,Ramirez,Female,4.0,Non-White Hispanic/Latino,Monrovia,Los Angeles,California,2010-02-06 00:00:00
+Gabriele,Uralli,Female,25.0,White,Walnut Creek,Contra Costa,California,1978-09-28 00:00:00
+Penny,Earlywine,Female,44.0,White,El Cajon,San Diego,California,1989-05-01 00:00:00
+Terrence,O'donahue,Male,65.0,White,Lakewood,Los Angeles,California,2011-07-18 06:15:00
+Laurel,Newquist,Female,51.0,White,Sonora,Tuolumne,California,2006-09-14 00:00:00
+Larry,Haynes,Male,21.0,Asian or Pacific Islander,Ventura,Ventura,California,1994-11-16 00:00:00
+Deanna,Brooks,Female,70.0,White,Santa Cruz,Santa Cruz,California,2012-08-24 16:00:00
+Fernanda,Rodriguez,Female,21.0,Non-White Hispanic/Latino,Chino,San Bernardino,California,2009-01-28 00:00:00
+Elizabeth,Funchess,Female,0.0,White,San Jose,Santa Clara,California,1977-09-06 00:00:00
+Sherry,Roach,Female,55.0,White,San Mateo,San Mateo,California,1976-06-08 00:00:00
+Justin,Martinez,Female,17.0,Non-White Hispanic/Latino,North Hills,Los Angeles,California,2009-04-14 00:00:00
+Mae,Gebhard,Female,65.0,White,San Francisco,San Francisco,California,1981-02-24 09:25:00
+Bruce,Burgess,Male,21.0,White,San Diego,San Diego,California,2005-03-01 19:41:00
+James,Peters,Male,19.0,White,El Cajon,San Diego,California,1988-09-03 00:00:00
+Marcus,Farina,Male,22.0,White,Hollywood,Los Angeles,California,1991-12-06 00:00:00
+Santos,Andrade,Male,44.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,1988-11-24 10:00:00
+Elaine,Lehtinen,Female,31.0,White,Napa,Napa,California,1976-06-14 20:30:00
+Isely,Pereira,Female,18.0,Non-White Hispanic/Latino,Alhambra,Los Angeles,California,1998-12-15 00:00:00
+Jennifer,Wilson,Female,29.0,White,Canyon Country,Los Angeles,California,2004-01-10 21:00:00
+Bettina,Antone,Female,44.0,White,Redding,Shasta,California,1980-03-29 00:00:00
+Lana,Coronado,Female,31.0,White,San Francisco,San Francisco,California,1980-04-01 00:00:00
+Patricia,Griffin,Female,54.0,White,San Diego,San Diego,California,2002-10-30 16:15:00
+Sylvia,Carlson,Female,39.0,White,Santa Monica,Los Angeles,California,1977-12-12 13:00:00
+Sarita,Camacho,Female,20.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2008-10-15 00:00:00
+Fidelmar,Cadenas,Male,8.0,Non-White Hispanic/Latino,Riverside,Riverside,California,2006-11-28 00:00:00
+Luke,Robinson,Male,25.0,White,West Hollywood,Los Angeles,California,1990-07-01 00:00:00
+Yekusiel,Lesserson,Female,8.0,White,Calabasas,Los Angeles,California,2012-08-20 00:00:00
+Andrew,Ewing,Male,20.0,White,Redding,Shasta,California,1976-12-08 09:51:00
+Charles,Bolter,Male,69.0,White,Waterford,Stanislaus,California,1972-12-23 00:00:00
+Holli,Gerkan,Female,17.0,White,Lincoln,Placer,California,2013-10-22 00:00:00
+Brianne,Kruse,Female,19.0,White,Sacramento,Sacramento,California,2006-09-30 00:00:00
+Katie,Wantz,Female,21.0,White,Eureka,Humboldt,California,2001-10-28 13:54:00
+Seamus,Murphy,Male,29.0,White,Eureka,Humboldt,California,2006-02-01 14:31:00
+Questa,Burns,Female,48.0,White,San Bernardino,San Bernardino,California,1969-01-01 00:00:00
+Rosemma,Mendenhall,Female,47.0,White,Eureka,Humboldt,California,1993-08-01 13:24:00
+Robert,Mcdowell,Male,33.0,White,Brownsville,Yuba,California,1993-07-15 00:00:00
+Donald,Cavanaugh,Male,63.0,White,Ukiah,Mendocino,California,2005-03-01 12:48:00
+Kristen,Modafferi,Female,34.0,White,San Francisco,,California,1997-06-23 00:00:00
+Jeremy,Crocker,Male,62.0,White,Los Angeles,Los Angeles,California,1996-12-12 00:00:00
+Elwyn,Cundiff,Male,50.0,White,Lancaster,Los Angeles,California,2003-12-12 22:00:00
+Maria,Ceja Sanchez,Female,17.0,Non-White Hispanic/Latino,Stockton,San Joaquin,California,2012-10-29 00:00:00
+Nicole,Brown,Female,14.0,Non-White Hispanic/Latino,Elk Grove,Sacramento,California,2013-10-28 00:00:00
+Desiree,Gibson,Female,30.0,Black/African American,California City,Kern,California,2012-01-07 00:00:00
+Janet,Defelice,Female,88.0,White,Templeton,San Luis Obispo,California,2007-06-01 01:30:00
+Haifaa,Assad,Female,24.0,Other,Stockton,San Joaquin,California,2000-05-01 13:10:00
+Thomas,Mc Laughlin,Male,52.0,White,San Diego,San Diego,California,2005-05-29 19:00:00
+Emmanuel,Garcia,Male,14.0,Non-White Hispanic/Latino,Reseda,Los Angeles,California,2014-03-05 00:00:00
+Jose,Coria,Male,20.0,White Hispanic/Latino,Santa Maria,Santa Barbara,California,2007-09-06 22:30:00
+Susan,Jacobson,Female,59.0,White,Roseville,Placer,California,2013-05-01 06:00:00
+Paul,Armstrong,Male,27.0,White,Merced,Merced,California,1993-12-17 07:45:00
+Lillian,Estrada,Female,40.0,Non-White Hispanic/Latino,Spring Valley,San Diego,California,1990-09-29 00:00:00
+Deborah,Jaramillo,Female,53.0,White,Whittier,Los Angeles,California,2009-11-10 19:00:00
+Steven,Lombard,Male,34.0,White,Merced,Merced,California,1993-12-17 09:30:00
+Vanessa,Smith,Female,15.0,White,Winton,Merced,California,1997-05-31 19:00:00
+Johnnie,Herrera,Male,20.0,Non-White Hispanic/Latino,Oxnard,Ventura,California,1971-08-27 00:30:00
+Maria,Chavez,Female,39.0,Non-White Hispanic/Latino,El Monte,Los Angeles,California,2009-05-07 20:45:00
+Nancy,Catalan-lopez,Female,17.0,Non-White Hispanic/Latino,Lemon Grove,San Diego,California,2012-10-26 00:00:00
+Peter,Martin,Male,73.0,Black/African American,Oakland,Alameda,California,1995-08-01 15:45:00
+Johanna,Brighton,Female,38.0,White,Los Angeles,Los Angeles,California,1981-02-25 00:00:00
+Katherine,Gillham,Female,40.0,Native American,Big Lagoon,Humboldt,California,2012-06-11 02:54:00
+Robert,Harrod,Male,81.0,White,Placentia,Orange,California,2009-07-27 12:00:00
+Jonathon,Aujay,Male,38.0,White,Palmdale,Los Angeles,California,1998-06-11 10:15:00
+Steve,Losonczi,Male,43.0,White,Los Angeles,Los Angeles,California,1980-03-02 00:00:00
+Summer,Lynch,Female,15.0,Other,Palm Desert,Riverside,California,2013-05-19 00:00:00
+Manuel,Estrada,Male,79.0,White Hispanic/Latino,Chino,San Bernardino,California,2012-09-18 07:15:00
+Brian,Schuler,Male,37.0,White,Littlerock,Los Angeles,California,2004-01-01 00:00:00
+Kevin,Collins,Male,40.0,White,San Francisco,San Francisco,California,1984-02-10 00:00:00
+Arturo,Vasquez,Male,36.0,Non-White Hispanic/Latino,San Ysidro,San Diego,California,1998-02-05 21:30:00
+Christian,Boldt,Male,18.0,White,Los Angeles County,Los Angeles,California,1986-05-01 00:00:00
+Beth,Rogers,Female,22.0,White,Trinity County,Trinity,California,1993-06-11 00:00:00
+Lukas,Pokorny,Male,12.0,Non-White Hispanic/Latino,Oakland,Alameda,California,2002-11-11 00:00:00
+Louise,Ayala,Female,65.0,Non-White Hispanic/Latino,Lakewood,Los Angeles,California,1998-07-07 13:00:00
+Miguel,Felix,Female,8.0,Non-White Hispanic/Latino,Cathedral City,Riverside,California,2011-03-09 00:00:00
+Joshua,Brown,Male,17.0,Non-White Hispanic/Latino,La Verne,Los Angeles,California,2013-11-26 00:00:00
+Jorge,Acosta,Male,33.0,Non-White Hispanic/Latino,Van Nuys,Los Angeles,California,1992-11-01 00:00:00
+Mary,Watkins,Female,54.0,White,Modesto,Stanislaus,California,1979-05-17 00:00:00
+Roy,Everling,Male,19.0,White,Hacienda Heights,Los Angeles,California,2013-08-02 19:00:00
+Blake,Pursley,Male,34.0,White,Running Springs,San Bernardino,California,1994-06-26 00:00:00
+Hailey,Jackson-pipes,Female,16.0,White,Sacramento,Sacramento,California,2014-03-24 00:00:00
+Angelica,Valenzuela,Male,10.0,White,San Pablo,Contra Costa,California,2006-02-25 00:00:00
+Cassandra,Beltran,Female,17.0,Non-White Hispanic/Latino,Los Angeles,Los Angeles,California,2011-12-17 17:45:00
+Danyel,Sparpana,Female,31.0,White,West Sacramento,Yolo,California,1985-11-02 00:00:00
+Sean,Dubs,Male,1.0,White,San Francisco,San Francisco,California,1984-07-25 00:00:00
+Jack,Morgan,Male,32.0,White,San Diego,San Diego,California,1996-12-05 00:00:00
+Michael,Negrete,Male,18.0,White,Los Angeles,Los Angeles,California,1999-12-10 04:00:00
+Wayne,Goldbaum,Male,38.0,White,Paradise And Magalia Areas,Butte,California,1993-11-01 00:00:00
+Louis,Sandoval,Male,19.0,White Hispanic/Latino,Norwalk,Los Angeles,California,2000-05-14 17:00:00
+Cathryn,Luquin,Female,14.0,Non-White Hispanic/Latino,North Hollywood,Los Angeles,California,2000-09-05 00:00:00
+Abraham,Apodaca,Male,34.0,Native American,Sacramento,Yuba,California,1994-08-28 00:01:00
+Gina,Garcia,Female,32.0,White Hispanic/Latino,Stockton,San Joaquin,California,1996-07-11 00:01:00
+Beatrice,Wiles,Female,52.0,White,Magalia,Butte,California,2004-07-09 00:00:00
+Wallace,Vaughan,Male,27.0,White,Oroville,Butte,California,1990-01-01 00:00:00
+Daniel,Rosales,Male,9.0,Non-White Hispanic/Latino,Menlo Park,San Mateo,California,2007-04-28 00:00:00
+Mason,Fernandez,Male,12.0,Other,San Diego,San Diego,California,2004-11-08 00:00:00
+Rose,Cole,Female,57.0,White,Oakland,Alameda,California,1973-07-01 00:00:00
+Flora,Torralva,Female,26.0,Non-White Hispanic/Latino,Oxnard,Ventura,California,2003-07-26 00:00:00
+Angelica,Longoria,Female,44.0,Non-White Hispanic/Latino,El Monte,Los Angeles,California,1985-11-23 00:00:00
+Nestor,Osuna Vega,Male,38.0,Non-White Hispanic/Latino,Mazatlan,San Luis Obispo,California,2011-01-13 00:00:00
+Jeffrey,Comphel,Male,25.0,White,Fremont,Alameda,California,1983-10-15 14:00:00
+Alexander,Olive,Male,32.0,Black/African American,South Lake Tahoe,El Dorado,California,1985-11-09 00:00:00
+Kerry,Hanrahan,Male,56.0,White,San Ysidro,San Diego,California,2010-07-02 12:00:00
+Remigio,Hernandez,Male,43.0,Non-White Hispanic/Latino,Fort Bragg,Mendocino,California,2002-06-11 11:57:00
+James,Bordenkircher,Male,51.0,White,North Lake Tahoe,Placer,California,1965-06-12 00:00:00
+Gustavo,Cabrera,Male,27.0,Non-White Hispanic/Latino,El Cajon,San Diego,California,1977-12-06 00:00:00
+Bruce,Boughton,Male,24.0,White,Vacaville,Solano,California,1975-05-04 00:00:00
+Franklin,Osborne,Male,60.0,White,Phelan,San Bernardino,California,2007-12-01 20:58:00
+Isable,Quair,Female,22.0,Non-White Hispanic/Latino,Salinas,Monterey,California,1986-11-03 20:30:00
+Victor,Cruz,Male,16.0,Non-White Hispanic/Latino,Salinas,Monterey,California,2011-01-07 00:00:00
+Rodney,Bowsman,Male,67.0,White,Lancaster,Los Angeles,California,2009-05-07 20:30:00
+Jose,Arriola,Male,33.0,Non-White Hispanic/Latino,La Puente,Los Angeles,California,1982-05-21 22:30:00
+Lakeithia,Slaughter,Female,28.0,Black/African American,Stockton,San Joaquin,California,2001-11-08 11:03:00
+Terence,Stone,Male,51.0,White,Mill Valley,Marin,California,1982-08-25 00:00:00
+Chad,Kirkendall,Male,29.0,White,Mendocino,Mendocino,California,2004-05-29 18:00:00
+Frederick,Mclean,Male,54.0,White,Winchester,Riverside,California,2005-06-01 00:00:00
+Angela,Trujillo,Female,17.0,Non-White Hispanic/Latino,Fresno,Fresno,California,2010-03-13 00:00:00
+Jerry,Romero,Male,27.0,White Hispanic/Latino,Porterville,Tulare,California,2012-03-02 02:12:00
+Mark,Kechely,Male,25.0,White,Mill Valley,Marin,California,1983-12-25 00:00:00
+Rodolfo,Ricardez,Male,29.0,Non-White Hispanic/Latino,Anaheim,Orange,California,1999-12-25 00:00:00
+Romeo,Aispuro,Male,45.0,Non-White Hispanic/Latino,Maywood,Los Angeles,California,2009-09-11 14:00:00
+Irene,Kouame,Female,29.0,Black/African American,Pasadena,Los Angeles,California,2001-08-23 00:00:00
+Debra,Vowell,Female,21.0,White,San Diego,San Diego,California,1979-01-24 00:00:00
+Vincent,Carbajal,Female,21.0,Non-White Hispanic/Latino,Anaheim,Orange,California,1998-10-09 00:00:00
+Mark,Kotlarz,Male,26.0,White,Vail Lake,Riverside,California,1991-07-05 00:00:00
+John,Lovering,Male,28.0,White,Rowland Heights,Los Angeles,California,1973-11-25 14:00:00
+Karla,Sanchez,Female,15.0,Non-White Hispanic/Latino,Ventura,Ventura,California,2009-09-06 22:19:00
+Jeanine,Harms-sanchez,Female,42.0,White,Los Gatos,Santa Clara,California,2001-07-27 20:00:00
+Fonya,Harris,Female,30.0,Black/African American,Los Angeles,Los Angeles,California,2003-07-18 00:00:00
+Mary,Boston,Female,23.0,White,Sacramento,Sacramento,California,1968-09-01 00:00:00
+Ken,Tran,Male,20.0,Asian or Pacific Islander,Santa Cruz,Santa Cruz,California,2002-10-27 00:00:00
+Kamelia,Spencer,Female,17.0,Other,Palmdale,Los Angeles,California,1999-12-20 00:00:00
+Jack,Clawson,Male,24.0,White,Fremont,Alameda,California,1981-07-17 00:00:00
+Gregory,Howells,Male,42.0,White,Carmel,Monterey,California,1997-06-17 00:00:00
+Edward,Hawkins,Male,63.0,Black/African American,,,,2003-05-26 00:00:00
+Norman,Devore,Male,27.0,White,Modesto,Stanislaus,California,1981-03-29 23:30:00
+Olivia,Rios,Female,13.0,Other,Visalia,Tulare,California,2014-04-11 00:00:00
+Armando,Cano,Male,34.0,Non-White Hispanic/Latino,San Diego,San Diego,California,2010-05-23 00:00:00
+Patrick,Betz,Male,37.0,White,Upland,San Bernardino,California,1988-01-20 00:00:00
+Darren,Liles,Male,23.0,White,San Francisco,San Francisco,California,1985-09-05 20:24:00
+Savannah,Puccio,Female,17.0,White,La Verne,Los Angeles,California,2013-11-29 00:00:00
+Katrina,Ashford,Female,19.0,Black/African American,San Rafael,Marin,California,1972-07-11 21:00:00
+Moises,Romero,Male,19.0,Non-White Hispanic/Latino,San Francisco,San Francisco,California,2005-02-19 00:00:00
+Robert,Coyle,Male,44.0,White,Manhattan Beach,Los Angeles,California,2010-08-01 12:00:00
+Rebecca,Blumenfeld-jones,Female,26.0,White,Eureka,Humboldt,California,2012-04-24 09:00:00
+Jackie,Lizzarrga,Female,16.0,White,Los Angeles,Los Angeles,California,2011-05-29 00:00:00
+Starr,Hill,Female,46.0,White,Middletown,Lake,California,2005-05-18 10:00:00
+Rodolfo,Morfin,Male,54.0,White,Lake Arrowhead,San Bernardino,California,2005-04-10 00:00:00
+John,Cash,Male,34.0,White,Shafter,Kern,California,1998-11-01 00:00:00
+Gerardo,Barajas,Male,0.0,Non-White Hispanic/Latino,Oakdale,Stanislaus,California,2003-06-06 00:00:00
+Donnis,Redman,Female,70.0,White,San Pedro,Los Angeles,California,1958-03-01 00:00:00
+Jose Abel,Leon,Male,27.0,White Hispanic/Latino,Santa Maria,Santa Barbara,California,1988-07-03 07:45:00
+Wade,Borthwick,Male,45.0,White,Redding,Shasta,California,2003-02-15 18:11:00
+Donald,Vallecillo,Male,32.0,Non-White Hispanic/Latino,Santa Monica,Los Angeles,California,1994-05-30 00:00:00
+Deanna,Pickering,Female,18.0,White Hispanic/Latino,West Covina,Los Angeles,California,2011-07-05 07:05:00
+Ingrid,Contreras,Female,29.0,White Hispanic/Latino,Los Angeles,,California,2001-06-08 00:00:00
+Robert,Bergner,Male,43.0,White,Santa Cruz,Santa Cruz,California,2012-03-01 03:12:00
+Yolanda,Williams,Female,44.0,Black/African American,Compton,Los Angeles,California,1977-07-20 00:00:00
+Peggy,Humber,Female,44.0,Native American,Bakersfield,Kern,California,2000-06-23 00:00:00
+Dorothy,Caylor,Female,41.0,White,Concord,Contra Costa,California,1985-06-12 00:00:00
+William,Henry,Male,30.0,White,Laguna Beach,Orange,California,1998-07-20 00:00:00
+Beau,Heller,Male,28.0,White,Duarte,Los Angeles,California,2005-01-29 18:00:00
+Saeed,Hedgepeth,Male,25.0,Black/African American,Oakland,Alameda,California,1999-04-24 02:00:00
+Paul,Head,Male,32.0,White,|Sierra National Forest,|,Fresno,California,1999-09-09 00:00:00
+Sherie,Graves,Female,32.0,White,Modesto,Stanislaus,California,1988-05-01 00:00:00
+Christine,Sexton,Female,36.0,White,Turlock,Stanislaus,California,1989-04-17 00:00:00
+Scott,Jacobs,Male,22.0,White,Greenbrae,Marin,California,1985-08-25 00:00:00
+Matthew,Greene,Male,39.0,White,Mammoth Lakes,Mono,California,2013-07-16 21:06:00
+Juliandra,Jones,Female,19.0,White,Palmdale,Los Angeles,California,1997-04-20 22:30:00
+Kimbra,Berry,Female,55.0,White,Turlock,Stanislaus,California,2011-02-28 14:30:00
+Gary,Matthewson,Male,52.0,White,Fontana,San Bernardino,California,2005-08-03 00:00:00
+Oscar,Leyva,Male,17.0,Non-White Hispanic/Latino,Downey,Los Angeles,California,2000-09-24 00:00:00
+Binh,Ta,Male,20.0,Asian or Pacific Islander,Westminster,Orange,California,2000-12-24 00:00:00
+Louis,Payne Jr,Male,29.0,Black/African American,Stockton,San Joaquin,California,2011-10-08 00:00:00
+Byron,Page,Male,39.0,Black/African American,Los Angeles,Los Angeles,California,1992-01-29 00:00:00
+Linda,Grethel,Female,61.0,White,Montebello,Los Angeles,California,2013-11-30 15:00:00
+Barry,Obrian,Male,34.0,White,Santa Cruz,Santa Cruz,California,1992-02-01 00:00:00
+John,Ogle,Male,66.0,White,Santa Cruz,Santa Cruz,California,1994-05-16 00:00:00
+Alicia,Anchondo,Female,17.0,Non-White Hispanic/Latino,Fullerton,Orange,California,2013-07-23 00:00:00
+Sarah,Amiri,Female,23.0,White,Reseda,Los Angeles,California,1994-03-22 00:00:00
+Travess,Malone,Male,20.0,White,Barstow,San Bernardino,California,2001-05-01 00:00:00
+Angelica,Cardenas,Female,20.0,Non-White Hispanic/Latino,Blue Jay,San Bernardino,California,2006-07-19 00:00:00
+Siji,Navarro,Male,27.0,Other,Santa Cruz,Santa Cruz,California,2004-11-28 00:00:00
+Ronald,La Valley,Male,20.0,White,Santa Cruz,Santa Cruz,California,1988-01-07 00:00:00
+Kimberly,Lilly,Female,37.0,White,Santa Cruz,Santa Cruz,California,1995-01-01 00:00:00
+Ryan,Mann,Male,19.0,White,Shafter,Kern,California,2011-03-21 00:00:00
+Nancy,Lopez,Female,18.0,Non-White Hispanic/Latino,Tulare,Tulare,California,2013-07-01 00:00:00
+Victor,Ramirez,Male,22.0,Non-White Hispanic/Latino,Huntington Park,,California,2012-01-03 00:00:00
+Thomas,Nickel,Male,53.0,White,San Diego,San Diego,California,2002-10-29 07:00:00
+Eva,Christian,Female,17.0,Black/African American,Tracy,San Joaquin,California,2013-08-26 00:00:00
+Deyvin,Medina,Male,17.0,White Hispanic/Latino,San Francisco,San Francisco,California,2003-09-22 00:00:00
+Rene,Roof,Female,20.0,White,Lancaster,Los Angeles,California,1994-04-15 00:00:00
+Sir-kristopher,Marshall,Male,40.0,Other,Los Angeles,Los Angeles,California,1977-07-20 00:00:00
+Thomas,Hawks,Male,57.0,White,Newport Beach,Orange,California,2004-11-14 00:00:00
+Jackie,Hawks,Female,47.0,White,Newport Beach,Orange,California,2004-11-14 00:00:00
+Emmanuel,Limas,Male,0.0,White,Orange,Orange,California,2012-04-12 00:00:00
+Tracee,Carter,Female,40.0,White,Ventura,Ventura,California,2002-10-15 00:00:00
+Ryosei,Easley,Male,5.0,Other,Trabuco Canyon,Orange,California,2012-11-27 00:00:00
+Michelle,Russ,Female,26.0,White,Lancaster,Los Angeles,California,2013-05-09 23:00:00
+Carl,Eder,Male,34.0,White,Napa County,Napa,California,1976-01-01 00:00:00
+John,Holt,Male,28.0,White,San Francisco,San Francisco,California,1983-02-10 00:00:00
+Amanda,Campbell,Female,26.0,White,Fairfield,Solano,California,1991-12-27 00:00:00
+Joceline,Quiroz,Female,19.0,Non-White Hispanic/Latino,San Ysidro,San Diego,California,2000-03-31 00:00:00
